@@ -1,0 +1,437 @@
+Name,Weapon Class,Mastery Rank,Crafting Cost
+Fang Prime,Melee,0,Prime Parts
+Euphona Prime,Secondary,14,Prime Parts
+Vulkar Wraith,Primary,7,
+Corvas (Atmosphere),Arch-Gun (Atmosphere),1,"Barrel 1, Receiver 1, Stock 1, Argon Crystal 2, "
+Imperator Vandal (Atmosphere),Arch-Gun (Atmosphere),5,"Barrel 1, Receiver 1, Tellurium 10, "
+Atomos,Secondary,5,"Salvage 1500, Polymer Bundle 1300, Rubedo 800, Argon Crystal 2, "
+Ballistica,Secondary,2,"Neurodes 3, Gallium 4, Nano Spores 3000, Rubedo 1200, "
+Skana,Melee,0,"Salvage 750, Plastids 500, Alloy Plate 1100, Morphics 3, "
+Laser Rifle,Robotic,0,
+Marelok,Secondary,7,"Detonite Injector 2, Polymer Bundle 5000, Salvage 5000, Forma 1, "
+Machete Wraith,Melee,1,
+Dual Toxocyst,Secondary,11,"Mutagen Mass 4, Nano Spores 6500, Plastids 1100, Forma 1, "
+Nikana Prime,Melee,0,Prime Parts
+Despair,Secondary,4,"Morphics 10, Ferrite 5000, Alloy Plate 800, Salvage 4500, "
+Sancti Castanas,Secondary,10,
+Kraken,Secondary,0,"Neurodes 2, Alloy Plate 200, Salvage 750, Polymer Bundle 120, "
+Dex Sybaris,Primary,7,
+Scoliac,Melee,6,"Mutagen Mass 4, Nano Spores 15000, Plastids 1200, Forma 1, "
+Dual Ether,Melee,0,"Morphics 3, Salvage 900, Ferrite 850, Polymer Bundle 800, "
+Dual Zoren,Melee,2,"Morphics 4, Salvage 900, Ferrite 1100, Alloy Plate 800, "
+Heat Sword,Melee,0,"Neural Sensors 1, Ferrite 500, Circuits 300, Polymer Bundle 300, "
+Panthera,Primary,7,"Orokin Cell 1, Polymer Bundle 600, Hikou 1, Miter 1, "
+Orthos Prime,Melee,2,Prime Parts
+Telos Akbolto,Secondary,11,
+Kohm,Primary,5,"Salvage 2500, Oxium 500, Cryotic 500, Argon Crystal 2, "
+Staticor,Secondary,10,"Fieldron 10, Alloy Plate 6000, Ferrite 9000, Nitain Extract 3, "
+Broken Scepter,Melee,5,"Kuva 5000, Morphics 2, Rubedo 300, Salvage 2500, "
+Ogris,Primary,9,"Detonite Injector 5, Salvage 5000, Alloy Plate 600, Forma 1, "
+Castanas,Secondary,3,"Control Module 2, Salvage 800, Circuits 200, Forma 1, "
+Scindo Prime,Melee,4,Prime Parts
+Flux Rifle,Primary,6,"Fieldron 5, Circuits 900, Ferrite 6000, Forma 1, "
+Kulstar,Secondary,5,"Kraken 1, Tellurium 2, Cryotic 4800, Plastids 3600, "
+Dual Skana,Melee,0,"Morphics 2, Polymer Bundle 300, Ferrite 850, Alloy Plate 300, "
+Machete,Melee,1,"Gallium 4, Salvage 750, Plastids 800, Alloy Plate 900, "
+Burston,Primary,0,"Morphics 1, Polymer Bundle 400, Alloy Plate 150, Ferrite 600, "
+Imperator,Arch-Gun,0,"Morphics 2, Ferrite 1500, Polymer Bundle 150, Circuits 300, "
+Agkuza,Arch-Melee,0,"Blade 1, Handle 1, Tellurium 3, "
+Serro,Melee,2,"Fieldron 1, Circuits 400, Salvage 1000, Neural Sensors 3, "
+Cycron,Secondary,8,"Fieldron 4, Ferrite 9000, Circuits 1500, Forma 1, "
+Strun Wraith,Primary,10,"Barrel 1, Receiver 1, Stock 1, "
+Hirudo,Melee,7,"Kogake 1, Nitain Extract 3, Plastids 1100, Nano Spores 4600, "
+Lex,Secondary,3,
+Baza,Primary,7,"Ferrite 3500, Alloy Plate 4300, Cryotic 575, Forma 1, "
+Kronen,Melee,3,"Ferrite 1500, Nano Spores 2000, Plastids 1000, Argon Crystal 2, "
+Korrudo,Melee,9,"Auroxium Alloy 25, Esher Devar 15, Breath of the Eidolon 5, Mawfish Bones 20, "
+Drakgoon,Primary,5,"Morphics 5, Alloy Plate 950, Nano Spores 5500, Circuits 1100, "
+Lex Prime,Secondary,8,Prime Parts
+Spectra,Secondary,4,"Fieldron 3, Circuits 700, Ferrite 5000, Forma 1, "
+Dex Dakra,Melee,0,
+Sancti Magistar,Melee,8,
+Rakta Cernos,Primary,12,
+Destreza,Melee,7,"Alloy Plate 10000, Plastids 1700, Nitain Extract 5, Argon Crystal 2, "
+Lato Vandal,Secondary,7,"Barrel 1, Receiver 1, "
+Fragor,Melee,2,"Gallium 3, Salvage 750, Rubedo 300, Alloy Plate 80, "
+Dual Raza,Melee,6,"Dual Kamas 1, Cryotic 200, Alloy Plate 200, Orokin Cell 1, "
+Mire,Melee,0,"Neural Sensors 2, Ferrite 1000, Nano Spores 1500, Alloy Plate 2000, "
+Nikana,Melee,4,"Argon Crystal 3, Oxium 75, Alloy Plate 200, Forma 1, "
+Akmagnus,Secondary,12,"Magnus 1, Magnus 1, Orokin Cell 2, "
+Tysis,Secondary,9,"Neurodes 2, Plastids 400, Nano Spores 900, Polymer Bundle 100, "
+Nami Skyla,Melee,0,"Neurodes 2, Polymer Bundle 800, Rubedo 200, Gallium 10, "
+Bo Prime,Melee,5,Prime Parts
+Synapse,Primary,11,"Mutagen Mass 5, Salvage 30000, Circuits 3500, Forma 2, "
+Prisma Machete,Melee,7,
+Onorix,Arch-Melee,0,"Blade 2, Handle 1, Neurodes 3, "
+Stradavar Prime,Primary,12,Prime Parts
+Akbronco Prime,Secondary,10,Prime Parts
+Talons,Secondary,8,"Control Module 2, Ferrite 1500, Oxium 1200, Forma 1, "
+Silva & Aegis,Melee,0,"Gallium 3, Alloy Plate 600, Ferrite 1200, Forma 1, "
+Hate,Melee,2,"Morphics 10, Ferrite 5000, Nano Spores 6000, Salvage 4500, "
+Dex Furis,Secondary,10,
+Endura,Melee,7,"Alloy Plate 12000, Plastids 1200, Gallium 2, Argon Crystal 2, "
+Pox,Secondary,9,"Mutagen Mass 4, Nano Spores 6500, Rubedo 1200, Nitain Extract 2, "
+Dera Vandal,Primary,7,"Barrel 1, Receiver 1, Stock 1, "
+Ack & Brunt,Melee,3,"Detonite Injector 5, Salvage 7500, Cryotic 3300, Forma 1, "
+Dual Cestra,Secondary,7,"Cestra 1, Cestra 1, Fieldron 2, Forma 1, "
+Viper Wraith,Secondary,4,
+Corinth,Primary,8,"Nitain Extract 2, Alloy Plate 13000, Gallium 6, Cryotic 725, "
+Kohmak,Secondary,5,"Detonite Injector 2, Ferrite 5000, Plastids 5000, Forma 1, "
+Carmine Penta,Primary,6,
+Dread,Primary,5,"Morphics 6, Circuits 900, Polymer Bundle 750, Plastids 900, "
+Tipedo,Melee,3,"Neural Sensors 2, Polymer Bundle 1600, Kunai 1, Bo 1, "
+Strun,Primary,1,
+Vaykor Marelok,Secondary,10,
+Quanta,Primary,4,"Fieldron 7, Circuits 1000, Salvage 7000, Forma 1, "
+Caustacyst,Melee,7,"Mutagen Mass 10, Ferrite 15000, Plastids 400, Nitain Extract 5, "
+Heliocor,Melee,9,"Gammacor 1, Polymer Bundle 700, Rubedo 1200, Morphics 1, "
+Tipedo Prime,Melee,10,Prime Parts
+Mios,Melee,8,"Mutagen Mass 4, Nano Spores 15000, Plastids 1200, Forma 1, "
+Hikou,Secondary,2,"Morphics 5, Plastids 500, Rubedo 600, Salvage 4000, "
+Plasma Sword,Melee,0,"Orokin Cell 1, Ferrite 500, Salvage 450, Polymer Bundle 50, "
+Akbronco,Secondary,2,"Bronco 1, Bronco 1, Orokin Cell 1, "
+Tekko,Melee,2,"Gallium 5, Rubedo 700, Polymer Bundle 3300, Ankyros 1, "
+Angstrum,Secondary,4,"Alloy Plate 600, Circuits 400, Salvage 900, Argon Crystal 2, "
+Soma,Primary,6,"Morphics 7, Plastids 850, Rubedo 1200, Salvage 8000, "
+Plinx,Secondary,6,"Argon Crystal 2, Alloy Plate 4375, Cryotic 575, Gyromag Systems 10, "
+Valkyr Talons,Melee,0,
+Gammacor,Secondary,2,"Alloy Plate 2500, Plastids 650, Circuits 400, Argon Crystal 2, "
+Sigma & Octantis,Melee,0,
+Cobra & Crane,Melee,10,"Argon Crystal 2, Rubedo 4000, Plastids 875, Nano Spores 18750, "
+Furax Wraith,Melee,3,"Left Gauntlet 1, Right Gauntlet 1, "
+Akstiletto,Secondary,8,"Gallium 2, Salvage 800, Alloy Plate 200, Forma 1, "
+Galatine,Melee,3,"Gallium 4, Salvage 750, Rubedo 500, Alloy Plate 200, "
+Garuda's Talons,Melee,0,
+Exalted Blade (Umbra),Melee,0,
+Detron,Secondary,6,"Barrel 1, Receiver 1, Orokin Cell 10, "
+Prisma Dual Cleavers,Melee,3,
+Falcor,Melee,8,"Fieldron 5, Alloy Plate 8500, Circuits 1650, Forma 1, "
+Dual Cleavers,Melee,3,"Gallium 5, Salvage 1000, Polymer Bundle 800, Alloy Plate 1200, "
+Kogake,Melee,0,"Rubedo 400, Morphics 3, Ferrite 1200, Alloy Plate 500, "
+Phaedra (Atmosphere),Arch-Gun (Atmosphere),3,"Barrel 1, Receiver 1, Stock 1, Tellurium 2, "
+Desert Wind,Melee,0,
+Regulators Prime,Secondary,0,Prime Parts
+Mutalist Quanta,Primary,2,"Mutagen Mass 5, Nano Spores 15000, Circuits 1200, Forma 1, "
+Regulators,Secondary,0,
+Cyngas (Atmosphere),Arch-Gun (Atmosphere),4,"Barrel 1, Receiver 1, Stock 1, Tellurium 2, "
+Jat Kusar,Melee,10,"Detonite Injector 7, Salvage 7500, Rubedo 2000, Forma 1, "
+Dex Pixia,Secondary,0,
+Balefire Charger,Secondary,0,
+Artemis Bow,Primary,0,
+Anku,Melee,3,"Gallium 2, Salvage 800, Circuits 200, Morphics 4, "
+Stunna,Gear,0,
+Ballistica Prime,Secondary,14,Prime Parts
+Galatine Prime,Melee,13,Prime Parts
+Arca Scisco,Secondary,10,"Fieldron 5, Oxium 250, Salvage 12500, Forma 1, "
+Fluctus,Arch-Gun,2,"Barrel 1, Receiver 1, Stock 1, Argon Crystal 2, "
+Akstiletto Prime,Secondary,10,Prime Parts
+Quatz,Secondary,9,"Argon Crystal 2, Neurodes 5, Rubedo 4200, Salvage 12750, "
+Shockprod,Gear,0,
+Phaedra,Arch-Gun,3,"Barrel 1, Receiver 1, Stock 1, Tellurium 2, "
+Furax,Melee,0,"Nano Spores 1000, Salvage 900, Ferrite 600, Alloy Plate 500, "
+Braton Vandal,Primary,4,"Barrel 1, Receiver 1, Stock 1, "
+Lanzo,Gear,0,
+Twin Rogga,Secondary,9,"Argon Crystal 2, Kuva 1600, Alloy Plate 2600, Ferrite 15000, "
+Dargyn,Vehicle,0,
+Reaper Prime,Melee,2,Prime Parts
+Veritux,Arch-Melee,0,"Rubedo 500, Salvage 1000, Neurodes 2, Circuits 500, "
+Gram,Melee,2,"Gallium 3, Salvage 750, Rubedo 300, Alloy Plate 80, "
+War,Melee,10,"Polymer Bundle 2300, Rubedo 1400, Nitain Extract 5, Broken War 1, "
+Prisma Veritux,Arch-Melee,0,
+Rathbone,Arch-Melee,0,"Blade 2, Handle 1, Circuits 300, Control Module 1, "
+Knux,Arch-Melee,0,"Detonite Injector 5, Gallium 10, Forma 1, Furax 1, "
+Kaszas,Arch-Melee,0,"Blade 1, Handle 1, Tellurium 3, "
+Centaur,Arch-Melee,0,"Blade 1, Handle 1, Aegis 1, "
+Velocitus (Atmosphere),Arch-Gun (Atmosphere),4,"Barrel 1, Receiver 1, Stock 1, Control Module 2, "
+Velocitus,Arch-Gun,4,"Barrel 1, Receiver 1, Stock 1, Control Module 2, "
+Cerata,Melee,3,"Mutagen Mass 4, Cryotic 2500, Plastids 1200, Forma 1, "
+Paris Prime,Primary,8,Prime Parts
+Diwata,Melee,0,
+Peram,Gear,0,
+Akjagara Prime,Secondary,12,Prime Parts
+Redeemer,Melee,4,"Vasto 1, Dual Skana 1, Argon Crystal 2, "
+Cadus,Melee,0,"Neural Sensors 2, Polymer Bundle 3000, Circuits 1600, Bo 1, "
+Larkspur,Arch-Gun (Atmosphere),8,"Crisma Toroid 2, Venerdo Alloy 80, Radiant Zodian 5, Ecosynth Analyzer 5, "
+Quartakk,Primary,10,"Grokdrul 75, Fersteel Alloy 15, Salvage 12450, Neural Sensors 5, "
+Venka,Melee,3,"Gallium 4, Salvage 1000, Plastids 500, Forma 1, "
+Ankyros Prime,Melee,0,Prime Parts
+Imperator Vandal,Arch-Gun,5,"Barrel 1, Receiver 1, Tellurium 10, "
+Imperator (Atmosphere),Arch-Gun (Atmosphere),0,
+Glaxion Vandal,Primary,12,
+Grattler (Atmosphere),Arch-Gun (Atmosphere),4,"Tellurium 5, Salvage 6000, Oxium 3500, Forma 1, "
+Ferrox,Primary,14,"Fieldron 5, Alloy Plate 30000, Salvage 35000, Forma 1, "
+Supra Vandal,Primary,14,
+Knell,Secondary,10,"Argon Crystal 2, Rubedo 5200, Cryotic 3800, Salvage 20000, "
+Grattler,Arch-Gun,4,"Tellurium 5, Salvage 6000, Oxium 3500, Forma 1, "
+Veldt,Primary,8,"Morphics 10, Cryotic 600, Ferrite 7250, Forma 1, "
+Glaxion,Primary,8,"Fieldron 1, Circuits 550, Cryotic 2500, Forma 1, "
+Dual Decurion,Arch-Gun,1,"Barrel 2, Receiver 2, Control Module 2, "
+Cyngas,Arch-Gun,4,"Barrel 1, Receiver 1, Stock 1, Tellurium 2, "
+Penta,Primary,6,"Control Module 3, Circuits 1000, Ferrite 1200, Alloy Plate 400, "
+Vulklok,Robotic,0,
+Twin Grakatas,Secondary,9,"Grakata 1, Grakata 1, Forma 1, "
+Tazicor,Robotic,3,
+Spectra Vandal,Secondary,10,
+Broken War,Melee,10,"Forma 1, Nitain Extract 2, Hilt 1, Blade 2, "
+Sweeper Prime,Robotic,0,Prime Parts
+Bronco Prime,Secondary,4,Prime Parts
+Sweeper,Robotic,0,
+Prime Laser Rifle,Robotic,0,Prime Parts
+Stinger,Robotic,0,
+Zakti,Secondary,10,"Control Module 8, Plastids 350, Alloy Plate 6500, Nano Spores 5000, "
+Burst Laser,Robotic,0,
+Karak Wraith,Primary,7,"Barrel 1, Receiver 1, Stock 1, "
+Braton,Primary,0,
+Amphis,Melee,0,"Neurodes 2, Salvage 500, Circuits 600, Alloy Plate 600, "
+Multron,Robotic,3,
+Spira,Secondary,8,"Gallium 5, Ferrite 2500, Plastids 800, Salvage 4000, "
+Latron Prime,Primary,10,Prime Parts
+Stug,Secondary,2,"Neurodes 3, Gallium 4, Salvage 3000, Alloy Plate 1200, "
+Deconstructor Prime,Robotic,8,Prime Parts
+Deconstructor,Robotic,0,
+Deth Machine Rifle,Robotic,0,
+Fluctus (Atmosphere),Arch-Gun (Atmosphere),2,"Barrel 1, Receiver 1, Stock 1, Argon Crystal 2, "
+Sonicor,Secondary,2,"Alloy Plate 6500, Oxium 600, Plastids 2600, Argon Crystal 2, "
+Amprex,Primary,10,"Fieldron 8, Plastids 600, Ferrite 9000, Argon Crystal 3, "
+Rubico,Primary,6,"Salvage 3800, Polymer Bundle 1300, Rubedo 900, Argon Crystal 2, "
+Nami Skyla Prime,Melee,11,Prime Parts
+Prisma Burst Laser,Robotic,0,
+Nagantaka,Primary,9,"Neurodes 3, Gallium 4, Nano Spores 3000, Rubedo 1200, "
+Dual Keres,Melee,7,"Argon Crystal 2, Oxium 230, Salvage 13250, Tellurium 3, "
+Hystrix,Secondary,7,"Bolto 1, Viper 1, Ferrite 9750, Control Module 15, "
+Lato Prime,Secondary,14,Prime Parts
+Acceltra,Primary,8,"Neurodes 4, Hexenon 200, Plastids 925, Nano Spores 8000, "
+Sheev,Melee,0,"Blade 1, Heatsink 1, Hilt 1, "
+Vaykor Hek,Primary,12,
+MK1-Strun,Primary,0,
+Cestra,Secondary,4,"Nano Spores 3000, Rubedo 1200, Gallium 4, Neurodes 2, "
+Tigris,Primary,7,"Orokin Cell 3, Circuits 900, Salvage 1200, Rubedo 1200, "
+Sobek,Primary,7,"Neurodes 5, Circuits 500, Salvage 900, Polymer Bundle 400, "
+Pupacyst,Melee,7,"Mutagen Mass 5, Salvage 8750, Rubedo 2250, Forma 1, "
+Secura Dual Cestra,Secondary,10,
+MK1-Paris,Primary,0,
+Paris,Primary,3,"Morphics 3, Plastids 600, Polymer Bundle 700, Nano Spores 2000, "
+Redeemer Prime,Melee,10,Prime Parts
+Prisma Twin Gremlins,Secondary,11,
+Tigris Prime,Primary,13,Prime Parts
+Gram Prime,Melee,14,Prime Parts
+Hek,Primary,4,"Neurodes 5, Circuits 900, Salvage 1200, Rubedo 1100, "
+Stubba,Secondary,7,"Grokdrul 45, Coprite Alloy 25, Ferrite 4485, Neurodes 2, "
+Exergis,Primary,8,"Argon Crystal 2, Repeller Systems 2, Oxium 175, Salvage 8500, "
+Dual Ichor,Melee,6,"Mutagen Mass 4, Circuits 1200, Salvage 15000, Forma 1, "
+Prisma Skana,Melee,0,
+Convectrix,Primary,7,"Fieldron 5, Control Module 10, Oxium 900, Forma 1, "
+Boar Prime,Primary,11,Prime Parts
+Boar,Primary,2,"Morphics 6, Alloy Plate 900, Salvage 750, Plastids 900, "
+Ankyros,Melee,0,"Nano Spores 900, Salvage 900, Ferrite 600, Alloy Plate 450, "
+Astilla,Primary,10,"Tellurium 4, Plastids 875, Oxium 175, Ferrite 7500, "
+Arca Plasmor,Primary,10,"Fieldron 5, Control Module 25, Cryotic 925, Forma 1, "
+Opticor,Primary,14,"Fieldron 5, Gallium 20, Cryotic 600, Forma 1, "
+Prisma Grinlok,Primary,11,
+Zhuge,Primary,10,"Cryotic 2800, Polymer Bundle 900, Nitain Extract 2, Argon Crystal 2, "
+MK1-Furax,Melee,0,
+Shaku,Melee,0,"Ninkondi 1, Forma 1, Plastids 1100, Morphics 10, "
+Fragor Prime,Melee,7,Prime Parts
+Bolto,Secondary,7,"Lato 1, Polymer Bundle 800, Orokin Cell 2, Neurodes 2, "
+Synoid Gammacor,Secondary,7,
+Halikar,Melee,7,"Argon Crystal 2, Ferrite 4800, Nano Spores 5000, Oxium 500, "
+Zarr,Primary,7,"Kuva 1800, Alloy Plate 2400, Salvage 5500, Drakgoon 1, "
+Kunai,Secondary,2,"Morphics 5, Ferrite 3000, Nano Spores 4000, Salvage 4000, "
+Fusilai,Secondary,7,"Rubedo 2950, Salvage 10000, Polymer Bundle 1350, Nitain Extract 2, "
+Aklex,Secondary,4,"Lex 1, Lex 1, Orokin Cell 1, "
+Cryotra,Robotic,0,
+Gorgon Wraith,Primary,7,"Barrel 1, Receiver 1, Stock 1, "
+Corvas,Arch-Gun,1,"Barrel 1, Receiver 1, Stock 1, Argon Crystal 2, "
+Vectis,Primary,2,"Neurodes 4, Orokin Cell 4, Nano Spores 3000, Rubedo 2500, "
+Torid,Primary,4,"Mutagen Mass 2, Salvage 4500, Circuits 600, Forma 1, "
+Akzani,Secondary,4,"Salvage 1500, Polymer Bundle 1000, Morphics 2, Argon Crystal 2, "
+Obex,Melee,0,"Circuits 650, Salvage 900, Ferrite 700, Alloy Plate 300, "
+Komorex,Primary,8,"Fieldron 5, Ferrite 6200, Hexenon 300, Forma 1, "
+Tiberon Prime,Primary,14,Prime Parts
+Spira Prime,Secondary,10,Prime Parts
+Opticor Vandal,Primary,14,
+Tiberon,Primary,10,"Latron 1, Plastids 650, Rubedo 600, Forma 1, "
+Tetra,Primary,3,"Control Module 2, Alloy Plate 400, Ferrite 900, Polymer Bundle 100, "
+Prova,Melee,3,"Fieldron 1, Alloy Plate 300, Salvage 1000, Forma 1, "
+Telos Boltor,Primary,12,
+Synoid Simulor,Primary,12,
+Skana Prime,Melee,0,Prime Parts
+Ocucor,Secondary,8,"Fieldron 10, Thermal Sludge 40, Venerdo Alloy 55, Sagan Module 20, "
+Aksomati,Secondary,9,"Akstiletto 1, Cryotic 200, Orokin Cell 1, "
+Bo,Melee,0,"Orokin Cell 1, Salvage 900, Ferrite 600, Alloy Plate 150, "
+Akbolto,Secondary,9,"Bolto 1, Bolto 1, Orokin Cell 1, "
+Rakta Dark Dagger,Melee,8,
+Latron Wraith,Primary,7,"Barrel 1, Receiver 1, Stock 1, "
+Twin Gremlins,Secondary,5,"Neurodes 5, Circuits 900, Salvage 1500, Rubedo 1200, "
+Supra,Primary,12,"Fieldron 7, Alloy Plate 1000, Salvage 7000, Forma 1, "
+Sarpa,Melee,8,"Akstiletto 1, Cryotic 3300, Plastids 1000, Control Module 2, "
+Soma Prime,Primary,7,Prime Parts
+Vasto,Secondary,4,"Neurodes 4, Alloy Plate 1200, Ferrite 700, Polymer Bundle 1000, "
+Scindo,Melee,2,"Gallium 3, Salvage 750, Circuits 300, Alloy Plate 500, "
+Karyst,Melee,0,"Salvage 1500, Polymer Bundle 800, Oxium 100, Argon Crystal 1, "
+Buzlok,Primary,11,"Detonite Injector 2, Salvage 5000, Circuits 600, Forma 1, "
+Snipetron Vandal,Primary,5,"Barrel 1, Receiver 1, Stock 1, "
+Cernos Prime,Primary,12,Prime Parts
+Harpak,Primary,7,"Argon Crystal 2, Gallium 5, Nano Spores 6000, Rubedo 3600, "
+Simulor,Primary,5,"Ferrite 1200, Polymer Bundle 850, Orokin Cell 1, Argon Crystal 1, "
+Prisma Obex,Melee,0,
+Ether Reaper,Melee,3,"Polymer Bundle 1000, Rubedo 1000, Morphics 10, Ferrite 1000, "
+Boltor Prime,Primary,13,Prime Parts
+Kestrel,Melee,0,"Morphics 8, Ferrite 4800, Nano Spores 5000, Salvage 4000, "
+Scourge,Primary,6,"Nitain Extract 2, Circuits 2500, Oxium 350, Polymer Bundle 2500, "
+Rubico Prime,Primary,12,Prime Parts
+Grakata,Primary,5,"Neurodes 2, Alloy Plate 400, Salvage 900, Polymer Bundle 100, "
+Larkspur,Arch-Gun,8,"Crisma Toroid 2, Venerdo Alloy 80, Radiant Zodian 5, Ecosynth Analyzer 5, "
+Quanta Vandal,Primary,10,
+Prisma Tetra,Primary,4,
+Ignis Wraith,Primary,9,"Detonite Injector 5, Ferrite 10000, Rubedo 5000, Argon Crystal 3, "
+Glaive,Melee,1,"Morphics 10, Ferrite 5000, Nano Spores 6000, Salvage 4500, "
+Zhuge Prime,Primary,14,Prime Parts
+Ninkondi Prime,Melee,10,Prime Parts
+Prisma Grakata,Primary,11,
+Heat Dagger,Melee,0,"Ferrite 500, Circuits 150, Polymer Bundle 75, Neural Sensors 1, "
+Phage,Primary,11,"Mutagen Mass 4, Circuits 1500, Nano Spores 6000, Forma 1, "
+Volnus,Melee,4,"Oxium 225, Argon Crystal 2, Alloy Plate 11000, Cryotic 875, "
+Dragon Nikana,Melee,8,"Argon Crystal 1, Oxium 75, Nikana 1, "
+Cronus,Melee,0,"Morphics 1, Ferrite 500, Polymer Bundle 75, "
+Afuris,Secondary,4,"Furis 1, Furis 1, Orokin Cell 1, "
+Twin Krohkur,Melee,6,"Detonite Injector 5, Forma 1, Krohkur 1, Krohkur 1, "
+Tulok,Gear,0,
+Vectis Prime,Primary,14,Prime Parts
+Dual Kamas,Melee,1,"Kama 1, Kama 1, Orokin Cell 1, "
+Paracyst,Primary,7,"Mutagen Mass 5, Nano Spores 15000, Circuits 1200, Forma 1, "
+Kesheg,Melee,7,"Detonite Injector 5, Kuva 1400, Ferrite 6000, Alloy Plate 8000, "
+Lacera,Melee,7,"Morphics 2, Polymer Bundle 4200, Rubedo 1200, Gallium 20, "
+Mutalist Cernos,Primary,7,"Cernos 1, Plastids 1400, Cryotic 1200, Nano Spores 2300, "
+Sancti Tigris,Primary,12,
+MK1-Braton,Primary,0,
+MK1-Bo,Melee,0,
+Kama,Melee,1,"Neural Sensors 5, Ferrite 1200, Circuits 900, Polymer Bundle 1200, "
+Akarius,Secondary,8,"Neurodes 3, Hexenon 150, Polymer Bundle 1600, Nano Spores 7500, "
+Lenz,Primary,8,"Fieldron 10, Alloy Plate 8200, Cryotic 2400, Nitain Extract 3, "
+Latron,Primary,0,"Morphics 5, Plastids 800, Alloy Plate 1000, Salvage 900, "
+Lecta,Melee,0,"Morphics 2, Salvage 900, Ferrite 1000, Neural Sensors 3, "
+Ohma,Melee,8,"Nitain Extract 4, Ferrite 15000, Plastids 1400, Argon Crystal 2, "
+Lanka,Primary,10,"Fieldron 5, Gallium 20, Alloy Plate 600, Forma 1, "
+MK1-Furis,Secondary,0,
+Secura Lecta,Melee,8,
+Karak,Primary,1,"Neurodes 2, Alloy Plate 400, Salvage 900, Polymer Bundle 100, "
+Pandero,Secondary,8,"Argon Crystal 2, Circuits 4500, Cryotic 5500, Salvage 25000, "
+Javlok,Primary,7,"Detonite Injector 5, Alloy Plate 10000, Nitain Extract 5, Javlok Capacitor 6, "
+Kreska,Melee,6,"Fieldron 10, Mytocardia Spore 40, Star Amarast 25, Lathe Coagulant 20, "
+Paracesis,Melee,10,"Ducats 1000, Galatine 1, Eidolon Shard 5, Orokin Cell 15, "
+Arca Titron,Melee,10,"Argon Crystal 2, Gallium 6, Circuits 2150, Ferrite 1200, "
+Acrid,Secondary,7,"Mutagen Mass 5, Salvage 6000, Nano Spores 5000, Forma 1, "
+Zenistar,Melee,6,
+Prova Vandal,Melee,3,
+Ignis,Primary,5,"Detonite Injector 2, Nano Spores 5000, Ferrite 5000, Forma 1, "
+Hind,Primary,0,"Neurodes 6, Circuits 700, Salvage 1000, Rubedo 1200, "
+Sybaris Prime,Primary,12,Prime Parts
+Grinlok,Primary,7,"Detonite Injector 2, Polymer Bundle 5000, Ferrite 5000, Forma 1, "
+Boltace,Melee,2,"Boltor 1, Kronen 1, Gallium 2, "
+Guandao,Melee,4,"Gallium 3, Oxium 65, Polymer Bundle 750, Ferrite 2500, "
+Twin Vipers Wraith,Secondary,7,"Barrel 1, Receiver 1, Link 1, "
+Burston Prime,Primary,12,Prime Parts
+Gorgon,Primary,3,"Morphics 5, Ferrite 5000, Salvage 6000, Circuits 1000, "
+Dual Decurion (Atmosphere),Arch-Gun (Atmosphere),1,"Barrel 2, Receiver 2, Control Module 2, "
+Jaw Sword,Melee,0,"Ferrite 500, Morphics 1, Polymer Bundle 75, Rubedo 300, "
+Fulmin,Primary,8,"Rubedo 2100, Nano Spores 7500, Argon Crystal 2, Hexenon 350, "
+Boltor,Primary,2,"Neurodes 2, Alloy Plate 100, Salvage 900, Polymer Bundle 600, "
+Iron Staff,Melee,0,
+Attica,Primary,7,"Morphics 2, Ferrite 800, Rubedo 200, Forma 1, "
+Glaive Prime,Melee,10,Prime Parts
+Battacor,Primary,10,"Fieldron 10, Tepa Nodule 40, Heart Noctrul 25, Entroplasma 20, "
+Akvasto,Secondary,8,"Vasto 1, Vasto 1, Orokin Cell 2, "
+Orthos,Melee,2,"Morphics 4, Polymer Bundle 500, Ferrite 850, Alloy Plate 700, "
+Daikyu,Primary,10,"Neurodes 2, Forma 1, Rubedo 300, Salvage 1200, "
+Pangolin Sword,Melee,0,"Control Module 1, Ferrite 750, Circuits 300, Alloy Plate 80, "
+Furis,Secondary,2,"Ferrite 750, Alloy Plate 300, Salvage 400, Neurodes 4, "
+Snipetron,Primary,0,"Morphics 5, Plastids 900, Salvage 1200, Alloy Plate 900, "
+Galvacord,Melee,6,"Argon Crystal 2, Atmo Systems 5, Ferrite 3600, Circuits 1000, "
+Seer,Secondary,0,"Barrel 1, Receiver 1, Orokin Cell 2, "
+Twin Kohmak,Secondary,10,"Kohmak 1, Kohmak 1, Forma 1, "
+Dark Sword,Melee,0,"Neurodes 2, Ferrite 800, Plastids 200, Polymer Bundle 75, "
+Bronco,Secondary,0,"Neurodes 2, Alloy Plate 1200, Ferrite 700, Polymer Bundle 800, "
+Phantasma,Primary,9,"Argon Crystal 2, Intact Sentient Core 10, Plastids 650, Nano Spores 12500, "
+Atterax,Melee,2,"Salvage 1500, Polymer Bundle 800, Rubedo 200, Argon Crystal 2, "
+Braton Prime,Primary,8,Prime Parts
+Argonak,Primary,7,"Detonite Injector 5, Plastids 700, Alloy Plate 9950, Forma 1, "
+Zylok,Secondary,6,
+Viper,Secondary,4,"Salvage 300, Ferrite 600, Nano Spores 900, Morphics 1, "
+Fang,Melee,0,"Polymer Bundle 600, Ferrite 600, Nano Spores 900, Morphics 1, "
+Ether Daggers,Melee,0,"Morphics 5, Polymer Bundle 600, Ferrite 600, Nano Spores 1200, "
+Stradavar,Primary,8,"Ferrite 15000, Polymer Bundle 8000, Neural Sensors 3, Argon Crystal 2, "
+Silva & Aegis Prime,Melee,12,Prime Parts
+Synoid Heliocor,Melee,9,
+Azima,Secondary,6,
+Akvasto Prime,Secondary,12,Prime Parts
+Cassowar,Melee,5,"Forma 1, Rubedo 1000, Salvage 5700, Oxium 150, "
+Sybaris,Primary,5,"Morphics 2, Salvage 800, Rubedo 200, Forma 1, "
+Vulcax,Robotic,14,
+Zenith,Primary,10,
+Sicarus Prime,Secondary,14,Prime Parts
+Sicarus,Secondary,3,
+Cernos,Primary,6,"Gallium 3, Plastids 700, Polymer Bundle 600, Ferrite 1750, "
+Rakta Ballistica,Secondary,6,
+Nami Solo,Melee,0,"Ferrite 1500, Polymer Bundle 800, Rubedo 200, Argon Crystal 2, "
+Tenora,Primary,10,"Neurodes 5, Salvage 15000, Rubedo 4000, Forma 1, "
+Dakra Prime,Melee,6,Prime Parts
+Prisma Gorgon,Primary,11,
+Prisma Angstrum,Secondary,8,
+Nukor,Secondary,4,"Detonite Injector 2, Morphics 2, Salvage 5500, Forma 1, "
+MK1-Kunai,Secondary,0,
+Mara Detron,Secondary,9,
+Kogake Prime,Melee,10,Prime Parts
+Magnus,Secondary,10,"Orokin Cell 2, Alloy Plate 400, Salvage 900, Ferrite 100, "
+Artax,Robotic,0,
+Unarmed,Melee,0,
+Lato,Secondary,0,
+Hikou Prime,Secondary,4,Prime Parts
+Venka Prime,Melee,8,Prime Parts
+Telos Boltace,Melee,8,
+Dera,Primary,4,"Fieldron 2, Circuits 600, Ferrite 4500, Forma 1, "
+Tonkor,Primary,5,"Salvage 1500, Oxium 200, Cryotic 800, Argon Crystal 2, "
+Exalted Blade,Melee,0,
+Skiajati,Melee,11,
+Cyanex,Secondary,8,"Fieldron 5, Nano Spores 8750, Hexenon 250, Forma 1, "
+Jat Kittag,Melee,5,"Detonite Injector 5, Salvage 5000, Rubedo 600, Forma 1, "
+Brakk,Secondary,6,"Barrel 1, Receiver 1, Orokin Cell 10, "
+Embolist,Secondary,9,"Mutagen Mass 5, Salvage 15000, Circuits 1200, Forma 1, "
+Aklex Prime,Secondary,15,Prime Parts
+Dark Split-Sword (Dual Swords),Melee,5,"Dual Skana 1, Forma 1, Rubedo 1200, Mutagen Mass 10, "
+Destreza Prime,Melee,10,Prime Parts
+Dark Split-Sword (Heavy Blade),Melee,5,
+Wolf Sledge,Melee,7,"Nitain Extract 5, Handle 1, Head 1, Motor 1, "
+Vulkar,Primary,3,"Morphics 5, Circuits 800, Salvage 1200, Plastids 800, "
+Aklato,Secondary,3,
+Akjagara,Secondary,8,"Akbolto 1, Dual Skana 1, Orokin Cell 2, "
+Akbolto Prime,Secondary,13,Prime Parts
+Miter,Primary,6,"Barrel 1, Blade 1, Handle 1, Weapon Chassis 1, "
+Vaykor Sydon,Melee,8,
+Twin Basolk,Melee,3,"Dual Zoren 1, Atomos 1, Control Module 1, "
+Orvius,Melee,5,"Blade 2, Disc 1, Orokin Cell 10, Kuva 4000, "
+Tatsu,Melee,7,"Argon Crystal 2, Kuva 1200, Auroxium Alloy 100, Hespazym Alloy 100, "
+Sydon,Melee,2,"Detonite Injector 5, Circuits 1100, Salvage 4000, Amphis 1, "
+Hema,Primary,7,"Mutagen Mass 5, Salvage 50000, Circuits 5000, Forma 1, "
+Ninkondi,Melee,0,"Ferrite 4000, Polymer Bundle 1200, Plastids 800, Argon Crystal 2, "
+Ceramic Dagger,Melee,3,"Gallium 4, Ferrite 500, Alloy Plate 500, Polymer Bundle 600, "
+Twin Vipers,Secondary,5,"Viper 1, Viper 1, Orokin Cell 1, "
+Dual Kamas Prime,Melee,6,Prime Parts
+Rampart,Emplacement,0,
+Pyrana,Secondary,12,"Control Module 2, Salvage 800, Alloy Plate 200, Forma 1, "
+Dual Heat Swords,Melee,0,"Morphics 2, Salvage 900, Ferrite 1000, Polymer Bundle 700, "
+Kronen Prime,Melee,8,Prime Parts
+Dark Dagger,Melee,0,"Neurodes 2, Ferrite 500, Plastids 500, Polymer Bundle 300, "
+Secura Penta,Primary,12,
+Tonbo,Melee,3,"Control Module 2, Plastids 800, Ferrite 2000, Oxium 100, "
+Okina,Melee,5,"Tellurium 2, Alloy Plate 4200, Polymer Bundle 3400, Oxium 1800, "
+Sibear,Melee,6,"Magistar 1, Cryotic 30000, Alloy Plate 50000, "
+Pyrana Prime,Secondary,13,Prime Parts
+Magistar,Melee,1,"Gallium 3, Ferrite 750, Rubedo 300, Alloy Plate 80, "
+Lesion,Melee,7,"Tipedo 1, Plastids 1400, Neurodes 4, Nano Spores 2300, "
+Krohkur,Melee,5,"Tellurium 5, Morphics 8, Oxium 125, Alloy Plate 4375, "
+Gunsen,Melee,10,"Oxium 200, Tellurium 3, Plastids 1150, Nano Spores 19750, "
+Gazal Machete,Melee,5,"Argon Crystal 2, Salvage 2600, Alloy Plate 1900, Plastids 1400, "
+Ether Sword,Melee,0,"Morphics 4, Rubedo 700, Ferrite 900, Alloy Plate 700, "
+Vasto Prime,Secondary,10,Prime Parts
+Ripkas,Melee,3,"Ankyros 1, Dual Cleavers 1, Tellurium 2, Forma 1, "

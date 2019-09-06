@@ -1,1 +1,7380 @@
-a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mods | WARFRAME Wiki | FANDOM powered by Wikia
+
+a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: warframe:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+
+var Wikia={},
+wgUseSiteJs=true,
+wgWikiVertical="games",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done."},
+wgOnSiteNotificationsApiUrl="https://services.fandom.com/on-site-notifications",
+JSSnippetsStack=[],
+ads={"context":{"bidders":[],"opts":{"adsInContent":1,"enableCheshireCat":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"gaming","pageArticleId":1294782,"pageIsArticle":true,"pageName":"Mod","pageType":"article","wikiCategory":"gaming","wikiCustomKeyValues":"age=under18;age=18-24;age=25-34;age=18-34;gnre=3rdpersonshooter;gnre=action;gnre=free2play;gnre=fighting;gnre=fps;gnre=moba;gnre=scifi;gnre=shooter;pform=pc;sex=m;theme=alien;theme=military;theme=space","wikiDbName":"warframe","wikiId":"544934","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"games","newWikiCategories":["gaming"],"hasPortableInfobox":true}},"runtime":{"disableBtf":false}},
+adslots2=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgCdnRootUrl="https://slot1-images.wikia.nocookie.net",
+wgCdnApiUrl="https://api.wikia.nocookie.net/__cb1567448848263",
+Mercury=null,
+wgDBname="warframe",
+wgCityId="544934",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=1294782,
+wgCategories=["Updateme","Mechanics"],
+wgPageName="Mod",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1567448848263",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","php_version":"7.3.8","wiki":"warframe","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnablePortableInfoboxEuropaTheme=false,
+wgDiscussionsApiUrl="https://services.fandom.com/discussion",
+wgCookieDomain=".fandom.com",
+wgCookiePath="/";
+window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});
+var wgNow = new Date();
+Wikia.InstantGlobals={"wgAdDriverAbTestIdTargeting":80,"wgAdDriverAdditionalVastSizeCountries":["CH"],"wgAdDriverAolBidderCountries":["XX"],"wgAdDriverAolOneMobileBidderCountries":["XX"],"wgAdDriverAppNexusAstBidderCountries":["XX"],"wgAdDriverAppNexusBidderCountries":["XX"],"wgAdDriverAppNexusDfpCountries":["XX"],"wgAdDriverA9BidRefreshingCountries":["CZ","DK"],"wgAdDriverA9BidderCountries":["XX"],"wgAdDriverA9DealsCountries":["XX"],"wgAdDriverA9IncontentBoxadCountries":["XX"],"wgAdDriverA9OptOutCountries":["PL","XX-EU"],"wgAdDriverA9VideoBidderCountries":["XX"],"wgAdDriverBabDetectionDesktopCountries":["XX"],"wgAdDriverBabDetectionMobileCountries":["XX"],"wgAdDriverBeachfrontBidderCountries":["XX"],"wgAdDriverBeachfrontDfpCountries":["XX"],"wgAdDriverBottomLeaderBoardLazyPrebidCountries":["XX\/50"],"wgAdDriverBottomLeaderBoardAdditionalSizesCountries":["XX"],"wgAdDriverConfiantMobileCountries":["UK","US"],"wgAdDriverDelayTimeout":2000,"wgAdDriverGumGumBidderCountries":["PL"],
+"wgAdDriverHighImpactSlotCountries":["XX"],"wgAdDriverHighImpact2SlotCountries":["XX"],"wgAdDriverMobileFloorAdhesionCountries":["US\/10","AS","CK","FJ","PF","GU","KI","MH","FM","NR","NC","NZ","NU","NF","MP","PW","PG","PN","WS","SB","TK","TO","TV","UM","VU","WF","SA","AF","AS","AN","AX","AL","AD","AT","BY","BE","BA","BG","HR","CZ","DK","EE","FO","FI","FR","DE","GI","GR","GG","VA","HU","IS","IE","IM","IT","JE","LV","LI","LT","LU","MK","MT","MD","MC","ME","NL","NO","PL","PT","RO","RU","SM","RS","SK","SI","ES","SJ","SE","CH","TR","UA","AI","AG","AW","BS","BB","BZ","BM","BQ","CA","KY","CR","CU","CW","DM","DO","SV","GL","GD","GP","GT","HT","HN","JM","MQ","MX","MS","NI","PA","PR","BL","KN","LC","MF","PM","VC","SX","TT","TC","VG","VI"],"wgAdDriverIncontentPlayerSlotCountries":["XX"],"wgAdDriverIndexExchangeBidderCountries":["XX"],"wgAdDriverKargoBidderCountries":["US"],"wgAdDriverKikimoraPlayerTrackingCountries":["XX"],"wgAdDriverKikimoraTrackingCountries":["XX"],
+"wgAdDriverKikimoraViewabilityTrackingCountries":["XX"],"wgAdDriverKruxCountries":["AU","NZ","BR","CA","CL","FR","DE","IT","MX","ES","GB","US","PL","JP","UK","SG","RU","SE","BE","NL","DK","NO","FI"],"wgAdDriverKruxNewParamsCountries":["XX"],"wgAdDriverLABradorDfpKeyvals":["wgAdDriverCTPDesktopQueenCountries_A_99:queen_ctp_a","wgAdDriverCTPDesktopQueenCountries_B_1:queen_ctp_b","wgAdDriverBfabStickinessOasisCountries_A_90:oasis_stickyblb_a","wgAdDriverBfabStickinessOasisCountries_B_10:oasis_stickyblb_b","wgAdDriverF2BfabStickinessCountries_A_99:ns_sticky_blb_a","wgAdDriverF2BfabStickinessCountries_B_1:ns_sticky_blb_b","wgAdDriverLazyBottomLeaderboardMobileWikiCountries_A_50:lazy_blb_a","wgAdDriverLazyBottomLeaderboardMobileWikiCountries_B_50:lazy_blb_b","wgAdDriverBrowsiCountries_A_50:browsi_a","wgAdDriverBrowsiCountries_B_50:browsi_b","wgAdDriverGAMLazyLoadingCountries_A_50:gam_lazy_loading_a","wgAdDriverGAMLazyLoadingCountries_B_50:gam_lazy_loading_b",
+"icFloorAdhesionClickPositionTracking_A_0:floor_adhesion_click_position_a","icFloorAdhesionClickPositionTracking_B_100:floor_adhesion_click_position_b","icFloorAdhesionViewportsToStart-0_A_50:floor_adhesion_viewports_to_start_a","icFloorAdhesionViewportsToStart-0_B_50:floor_adhesion_viewports_to_start_b","icFloorAdhesionViewportsToStart-1_A_50:floor_adhesion_viewports_to_start_a","icFloorAdhesionViewportsToStart-1_B_50:floor_adhesion_viewports_to_start_b","icFloorAdhesionViewportsToStart-2_A_50:floor_adhesion_viewports_to_start_a","icFloorAdhesionViewportsToStart-2_B_50:floor_adhesion_viewports_to_start_b","icFloorAdhesionViewportsToStart_A_50:floor_adhesion_viewports_to_start_a","icFloorAdhesionViewportsToStart_B_50:floor_adhesion_viewports_to_start_b","icTopBoxadOutOfPage-0_A_50:out_of_page_mr_a","icTopBoxadOutOfPage-0_B_50:out_of_page_mr_b","icTopBoxadOutOfPage_A_50:out_of_page_mr_a","icTopBoxadOutOfPage_B_50:out_of_page_mr_b"],"wgAdDriverLABradorTestCountries":["PL\/40-cached"],
+"wgAdDriverLkqdBidderCountries":["CA","US","AU"],"wgAdDriverLkqdOutstreamCountries":["US-PA"],"wgAdDriverMoatTrackingForFeaturedVideoAdCountries":["US","PL","AU","DE","UK","GB","PA","CR","EC","MX","BR","AR","CO","PE","CL","AR","PA","UR","GA","PR"],"wgAdDriverMoatTrackingForFeaturedVideoAdSampling":100,"wgAdDriverMoatYieldIntelligenceCountries":["ID","GB","UK"],"wgAdDriverMobileTopBoxadCountries":["XX"],"wgAdDriverMobileWikiAE3SearchCountries":["XX"],"wgAdDriverNetzAthletenCountries":[""],"wgAdDriverNielsenCountries":["XX"],"wgAdDriverOasisHiviLeaderboardCountries":["XX"],"wgAdDriverOpenXPrebidBidderCountries":["XX"],"wgAdDriverOverscrolledCountries":["XX"],"wgAdDriverPlayAdsOnNextFVCountries":["XX"],"wgAdDriverPlayAdsOnNextFVFrequency":3,"wgAdDriverPorvataMoatTrackingCountries":["US","PL","AU","DE","UK","GB","MY","CA"],"wgAdDriverPorvataMoatTrackingSampling":10,"wgAdDriverPrebidBidderCountries":["XX"],"wgAdDriverPrebidBuiltInTargetingCountries":["XX"],"wgAdDriverPrebidOptOutCountries":
+["PL","XX-EU"],"wgAdDriverPubMaticBidderCountries":["XX"],"wgAdDriverPubMaticDfpCountries":["IN","SG","US-PA","CA","AU"],"wgAdDriverPubMaticOutstreamCountries":["US, CA"],"wgAdDriverRabbitTargetingKeyValues":["mnivens","queendesktop","ctpmobile","ctpdesktop"],"wgAdDriverRepeatMobileIncontentCountries":["XX"],"wgAdDriverRepeatMobileIncontentExtendedCountries":["PL","UK","GB","TR","FR","AU","CA","IL"],"wgAdDriverRubiconDisplayPrebidCountries":["XX"],"wgAdDriverRubiconPrebidCountries":["XX"],"wgAdDriverRubiconDfpCountries":["XX"],"wgAdDriverScrollDepthTrackingCountries":["PL"],"wgAdDriverScrollSpeedTrackingCountries":["XX"],"wgAdDriverStickySlotsLines":["4366940064","4916913597","4913869429","4950039599","4949392740","5093231180","5096621951","5108026783","5100305721","5116000005","5115963805","5121589422","5100489589","5118418989","5118418995","5131937498","5132504554","5139223366","5158191077","5163074581"],"wgAdDriverVmgBidderCountries":["US"],"wgAdDriverWadBTCountries":["XX"],
+"wgAdDriverWadHMDCountries":[""],"wgEnableTrackingOptInModal":!0,"wgMobileQualaroo":!0,"wgArticleVideoAutoplayCountries":["XX"],"wgArticleVideoNextVideoAutoplayCountries":["XX"]};
+
+
+/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/
+
+
+	(function () {
+		function genUID() {
+			return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+				var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+				return v.toString(16);
+			});
+		}
+
+		function getCookieValue(cookieName) {
+			var cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+			return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+		}
+
+		var expireDate = new Date(),
+			beacon = getCookieValue('wikia_beacon_id'),
+			sessionId = getCookieValue('tracking_session_id'),
+			pvNumber = getCookieValue('pv_number'),
+			pvNumberGlobal = getCookieValue('pv_number_global');
+
+		if (beacon) {
+			window.beacon_id = beacon;
+		}
+
+		window.sessionId = sessionId ? sessionId : genUID();
+		window.pvNumber = pvNumber ? parseInt(pvNumber, 10) + 1 : 1;
+		window.pvNumberGlobal = pvNumberGlobal ? parseInt(pvNumberGlobal, 10) + 1 : 1;
+		window.pvUID = genUID();
+
+		expireDate = new Date(expireDate.getTime() + 1000 * 60 * 30);
+		document.cookie = 'tracking_session_id=' + window.sessionId + '; expires=' + expireDate.toGMTString() +
+			';domain=' + window.wgCookieDomain + '; path=' + window.wgCookiePath + ';';
+		document.cookie = 'pv_number=' + window.pvNumber + '; expires=' + expireDate.toGMTString() +
+			'; path=' + window.wgCookiePath + ';';
+		document.cookie = 'pv_number_global=' + window.pvNumberGlobal + '; expires=' + expireDate.toGMTString() +
+			';domain=' + window.wgCookieDomain + '; path=' + window.wgCookiePath + ';';
+	})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	require(['wikia.trackingOptIn'], function (trackingOptIn) {
+		trackingOptIn.pushToUserConsentQueue(function (optIn) {
+			function getCookieValue(cookieName) {
+				var cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+				return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+			}
+
+			var script = document.createElement('script'),
+				utma = getCookieValue('__utma'),
+				utmb = getCookieValue('__utmb'),
+				trackUrl;
+
+			trackUrl = "https://beacon.wikia-services.com/__track/view?cb=1567448848263&c=544934&lc=en&lid=75&x=warframe&y=c3&a=1294782&s=oasis&&n=0" + ((typeof document.referrer != "undefined") ? "&r=" + encodeURIComponent(document.referrer) : "") +
+					"&rand=" + (new Date).valueOf() + (window.beacon_id ? "&beacon=" + window.beacon_id : "") +
+					(utma && utma[1] ? "&utma=" + utma[1] : "") + (utmb && utmb[1] ? "&utmb=" + utmb[1] : "") +
+					'&session_id=' + window.sessionId + '&pv_unique_id=' + window.pvUID + '&pv_number=' + window.pvNumber +
+					'&pv_number_global=' + window.pvNumberGlobal;
+
+			if (optIn) {
+				
+				trackUrl += '&u=' + '0';
+			} else {
+				trackUrl += '&u=-1';
+			}
+
+			script.src = trackUrl;
+			document.head.appendChild(script);
+		});
+	});
+
+
+	require(['wikia.trackingOptIn'], function (trackingOptIn) {
+		trackingOptIn.init();
+	});
+
+
+
+require(["wikia.trackingOptIn"], function (trackingOptIn) {
+	function loadComscoreScript() {
+		window._comscore = window._comscore || [];
+		window._comscore.push({ c1: "2", c2: "6177433",
+			options: {
+				url_append: "comscorekw=wikiacsid_games"
+			}
+		});
+	
+		var s = document.createElement("script");
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		document.head.appendChild(s);
+	}
+
+	trackingOptIn.pushToUserConsentQueue(function (optIn) {
+		if (optIn) {
+			loadComscoreScript();
+		}
+	});
+});
+
+
+
+
+	window._qevents = window._qevents || [];
+
+	require(["wikia.trackingOptIn"], function (trackingOptIn) {
+		function loadQuantServeScript() {
+			var elem = document.createElement('script');
+			
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			
+			document.head.appendChild(elem);
+		}
+
+		trackingOptIn.pushToUserConsentQueue(function (optIn) {
+			if (optIn) {
+				loadQuantServeScript();
+			}
+		});
+	});
+
+
+	_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:"Genre.3rdpersonshooter,Genre.action,Genre.free2play,Genre.fighting,Genre.fps,Genre.moba,Genre.scifi,Genre.shooter,Theme.alien,Theme.military,Theme.space" } );
+
+
+require([
+	'wikia.trackingOptIn',
+	require.optional('ext.wikia.adEngine3.api')
+], function(trackingOptIn, adsApi) {
+	var url = '//tag.md-nx.com/nx/438359d5-7944-441e-8720-1ab8a1f65560/loader.js';
+
+	function loadNetzAthletenScript() {
+		var scriptElementNetzAthleten = document.createElement('script');
+
+		scriptElementNetzAthleten.type = 'text/javascript';
+		scriptElementNetzAthleten.src = url;
+		scriptElementNetzAthleten.addEventListener('load', function () {
+			if (window.naMediaAd) {
+				window.naMediaAd.setValue('homesite', window.wgIsMainpage);
+			} else {
+				console.warn('window.naMediaAd has not been loaded.');
+			}
+		});
+
+		document.head.appendChild(scriptElementNetzAthleten);
+	}
+
+	trackingOptIn.pushToUserConsentQueue(function (optIn) {
+		adsApi.isNetzathletenEnabled()
+			.then(function(isServiceEnabled) {
+				// user opt-ins for NetzAthleten
+				if (optIn && isServiceEnabled) {
+					loadNetzAthletenScript();
+				}
+			});
+	});
+});
+
+
+
+FANDOM
+
+
+
+
+
+ 
+
+
+	Games
+
+	Movies
+
+	TV
+
+	Video
+
+
+Wikis
+ 
+
+
+
+
+	Explore Wikis
+
+
+
+	Community Central
+
+
+
+	Start a Wiki
+
+
+
+
+
+
+
+
+
+
+
+  
+				Search			
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+					Sign In				
+
+
+Don't have an account?
+
+					Register				
+
+
+
+
+
+
+	Start a Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window.adslots2.push(["top_leaderboard_ab"]);
+		
+
+
+
+
+
+
+
+
+
+
+WARFRAME Wiki
+
+
+5,312
+Pages
+
+
+
+ Add new page
+
+
+
+
+
+
+
+
+
+Basics
+
+ 
+
+
+
+
+Warframe
+ 
+
+
+
+Ash
+
+
+Excalibur
+
+
+Frost
+
+
+Loki
+
+
+Mag
+
+
+Nova
+
+
+Nyx
+
+
+Rhino
+
+
+Trinity
+
+
+Volt
+
+
+
+
+
+
+Weapons
+ 
+
+
+
+Primary Weapons
+
+
+Secondary Weapons
+
+
+Melee Weapons
+
+
+Archwing Weapons
+
+
+Weapon Comparison
+
+
+
+
+
+
+Mods
+ 
+
+
+
+Regular Mods
+
+
+Aura Mods
+
+
+Stance Mods
+
+
+Nightmare Mods
+
+
+Corrupted Mods
+
+
+Augment Mods
+
+
+Conclave Mods
+
+
+Flawed Mods
+
+
+
+
+
+
+Factions
+ 
+
+
+
+Grineer Faction
+
+
+Corpus Faction
+
+
+Infested Faction
+
+
+Orokin Faction
+
+
+Syndicates
+
+
+
+
+
+
+Missions
+ 
+
+
+
+Assassination
+
+
+Capture
+
+
+Defection
+
+
+Defense
+
+
+Excavation
+
+
+Exterminate
+
+
+Interception
+
+
+Rescue
+
+
+Sabotage
+
+
+Spy
+
+
+
+
+
+
+Tile Sets
+ 
+
+
+
+Grineer Tileset
+
+
+Corpus Tileset
+
+
+Infested Tileset
+
+
+Orokin Tileset
+
+
+Tenno Tileset
+
+
+Conclave Tileset
+
+
+Archwing Tileset
+
+
+
+
+
+
+Quests
+ 
+
+
+
+Vor's Prize
+
+
+Once Awake
+
+
+The Howl of Kubrow
+
+
+The Archwing
+
+
+Stolen Dreams
+
+
+The New Strange
+
+
+The Limbo Theorem
+
+
+Hidden Messages
+
+
+Patient Zero
+
+
+Natah
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced
+
+ 
+
+
+
+
+Game Mechanics
+ 
+
+
+
+Attributes
+
+
+Codex
+
+
+Currencies
+
+
+Damage
+
+
+Foundry
+
+
+Maximization
+
+
+Mods
+
+
+Polarity
+
+
+Stance
+
+
+Stealth
+
+
+
+
+
+
+Version History
+ 
+
+
+
+Update 25: The Jovian Concord
+
+
+Update 24: Fortuna
+
+
+Update 23: The Sacrifice
+
+
+Update 22: Plains of Eidolon
+
+
+Update 21: Chains of Harrow
+
+
+Update 20: Octavia's Anthem
+
+
+Update 19: The War Within
+
+
+Update 18: The Second Dream
+
+
+Update 17: Echoes of the Sentient
+
+
+Update 16: Sanctuary Update
+
+
+
+
+
+
+Technical Information
+ 
+
+
+
+System Requirements
+
+
+Running Warframe
+
+
+Settings
+
+
+Key Bindings
+
+
+Upcoming Features
+
+
+
+
+
+
+Developer Videos
+ 
+
+
+
+Dev Diaries
+
+
+DevStreams
+
+
+Prime Time
+
+
+Tenno Reinforcements
+
+
+Warframe Profile
+
+
+
+
+
+
+
+
+
+
+
+
+Community
+
+ 
+
+
+
+
+Forum
+ 
+
+
+
+Warframe Discussion
+
+
+Wiki Discussion
+
+
+General Discussion
+
+
+Trading
+
+
+Mission Assistance
+
+
+Clan Recruitment
+
+
+Feedback and Ideas
+
+
+Questions and Answers
+
+
+Off Topic
+
+
+
+
+
+
+Community Portal
+ 
+
+
+
+Recent Blog Posts
+
+
+Clan List
+
+
+User Guides
+
+
+Fan Zone
+
+
+
+
+
+
+Wiki Policies
+ 
+
+
+
+Article Policy
+
+
+Media Policy
+
+
+Data Mining Policy
+
+
+Blog Policy
+
+
+Chat Policy
+
+
+Banning Policy
+
+
+Talk Page and Comment Policy
+
+
+Privacy Policy
+
+
+
+
+
+
+Administrators
+ 
+
+
+
+6079Smith
+
+
+ArcticEngie
+
+
+Brizingr5
+
+
+ChickenBar
+
+
+Darthmufin
+
+
+SonyaUliana
+
+
+USouLz
+
+
+
+
+
+
+Editing Help
+ 
+
+
+
+Styling Guide
+
+
+Template List
+
+
+Ask Administrators!
+
+
+
+
+
+
+												Report Users!											
+
+
+
+
+
+
+
+
+ Explore
+ 
+
+
+
+Wiki Activity
+
+
+Random page
+
+
+Community
+
+
+Videos
+
+
+Images
+
+
+Forum
+
+
+
+
+
+
+
+
+ Discuss
+
+
+ 
+
+
+
+
+
+
+
+
+
+in:
+
+Updateme, Mechanics 
+
+Mods
+
+
+ 
+
+
+English 
+
+
+
+Deutsch
+
+
+Español
+
+
+Français
+
+
+Italiano
+
+
+Русский
+
+
+
+
+
+
+
+
+ Edit
+
+
+
+ 
+
+
+
+
+							VisualEditor						
+
+
+
+							History						
+
+
+
+
+
+
+Comments (4)
+
+
+ Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+“It's taking longer than I calculated.”This page is actively being worked on and may not be completely correct. Please assist in making this page accurate.
+
+
+
+
+Preceded by
+
+
+Mods 1.0 since Update 7
+
+
+
+Mod
+
+
+
+
+
+
+Modules (version 2.0) or in short, Mods are essentially the upgrade system in WARFRAME in the form of special cards that can be equipped to Warframes, weapons, Companions, K-Drives and Archwings to enhance damage, power, survivability, speed, precepts, and utility. Mods can grant Passive Powers, Active Powers, Sentinel Precepts, and Utilities. Mods can be changed between items. There are around 991 mods existing in the game excluding Riven Mods.
+
+Contents[show]
+
+AcquisitionEdit
+Almost all enemies have a chance of dropping a mod. The usual chance is 3%, but may differ depending on the type of enemy.
+75.9% of the mod drops will draw from the common drop table.
+22.12% of the mod drops will draw from the uncommon drop table.
+2.01% of the mod drops will draw from the rare drop table.
+All enemies which drop mods possess their own mod drop tables; visit their respective pages for more details.
+
+All mods are tradeable except  Primed Fury,  Primed Vigor,  Primed Shred,  Primed Sure Footed (obtained via Daily Tribute),  Umbral Intensify,  Umbral Fiber,  Umbral Vitality,  Sacrificial Steel,  Sacrificial Pressure (Sacrificial Mods and Umbral Mods are obtained via The Sacrifice) and Flawed Mods (Obtained via Vor's Prize).
+Sentinel precept mods cannot be traded if the player does not own another copy.
+
+Obtaining companions will provide a set of their own precepts.
+Some mods can be obtained from Nightwave Cred offerings, Nightmare Mode, and Orokin Derelict vaults.
+Mods can be obtained from the Orokin Void canisters and more commonly from treasure room canisters. Modules obtained are randomly chosen for every player.
+Mod drops from canisters will disappear after a period of time.
+
+Mod Transmutation can fuse four selected unranked mods to generate a random mod. Alternatively, three selected mods and one   Transmutation  Core may be used to guarantee a random mod of a specific polarity.
+Most non-endless mission types may offer a mod, blueprint, endo or credits as a mission reward upon completion.
+Every rotation of endless missions (e.g. Defense) will offer a reward chosen randomly from a drop table which may include a mod.
+Completing a conclave match may reward a conclave specific mod.
+Completing quest missions may reward a mod.
+Veiled Riven Mods and Legendary Cores can be obtained from completing sortie missions.
+Purchasing Primed/Legendary Mods from Baro Ki'Teer on a relay for credits‍credits and ducats‍ducats. Note however that Baro Ki'Teer's stock changes with each appearance, and may not have certain items available at every time.
+Purchasing Mod Packs from the market or Baro Ki'Teer.
+Purchasing mods from syndicates with standing.
+Logging in for 200/400/600 days will award players Primed Fury, Primed Vigor, and Primed Shred respectively for each progression milestone.
+Certain mods are obtained by participating in Events or Tactical Alerts. Most of these mods are allowed to be obtained by later means, but some mods like  Primed Chamber cannot be obtained aside trading with players or being given the mod by a developer of the game.
+A Riven mod is obtained after completing The Sacrifice
+
+
+AttributesEdit
+
+Mods have several attributes:
+
+Name & Effect: The name of the mod and what it changes when installed.
+Mod Compatibility: What the mod can be equipped on and if it's part of a Mod Set
+Special Indicator: Symbols that denote if the mod is an Aura, Stance, Exilus, Riven or part of a Set.
+Polarity & Capacity Drain: The polarity of the mod and the point cost that the mod will drain from what it is installed in. In the case of Aura and Stance mods, the maximum available point count will increase upon installation.
+Mod Rank: The upgrade level of the mod. (a small black hexagon appears just above when the mod is used in a build.)
+Stack/Quantity: The number of mod that you own of the same rank.
+Rarity: Denotes the rarity of a mod by the card's material and an increasing number of pips at the top:
+
+Smoke - Peculiar
+♦ Bronze - Common
+♦♦ Silver - Uncommon
+♦♦♦ Gold - Rare
+♦♦♦♦ Platinum - Legendary
+♦♦♦♦♦ Crystal - Riven
+
+
+Number Of Duplicates Selected: A number appears in the middle of the mod image to show the user how many mods of a stack are selected to be used in Fusion or to be sold for credits.
+
+
+TypeEdit
+Mods can only be attached to their indicated type of item. They may be generally applicable to weapons, Warframes, or companions (i.e. “Warframe Mod”) or specific to their respective class (i.e. “Trinity Mod”). The type is listed in the bottom right of the description of the mod.
+
+Mod RarityEdit
+Mods vary in 6 ranks of rarity as indicated by the border color and number of diamonds at the top.
+
+
+
+
+
+
+
+
+
+
+
+Peculiar
+♦Common
+♦♦Uncommon
+♦♦♦Rare
+♦♦♦♦Legendary
+♦♦♦♦♦Riven
+
+Mod CapacityEdit
+Warframes, companions, and weapons have a limited capacity for Mods equal to their Rank (Max 30). Warframes/Companions and Weapons can be supercharged with an Orokin Reactor or Orokin Catalyst respectively, which doubles the available Mod capacity up to a max of 60. Mod Capacity functions as a limit to what mods can be equipped depending on their drain. Mods can have a drain of 0 to as high as 20 depending on the mod and what rank it is. Items also have a minimum mod capacity, which adds mod points onto items which are a lower rank than a players current Mastery Rank. The amount of minimum mod capacity is equal to the player's mastery rank.
+The amount of mod slots an item will have depends on what type it is:
+
+Companions have 10 mod slots
+Warframes have 8 standard mod slots, an Exilus mod slot, and an aura mod slot
+Melee weapons have 8 standard mod slots and a stance mod slot
+Every other weapon has 8 mod slots
+
+Aura mods for Warframes increase Mod Capacity rather than drain it. This can be from an additional 1 to 18 Mod Capacity. Stance mods for melee weapons do the same.
+When Cold based mods like  Cryo Rounds increased their mod drain to 11, up from 9, builds who had those mods equipped and had 0 remaining mod capacity will show a negative capacity, such as -1 as it flashes red. Players are allowed to keep these builds as is, but removing any of the mods will correct the issue and not allow the player to replace the mod again.
+
+PolarityEdit
+Main article: Polarity
+
+Some slots are “polarized.” Each type of Polarization has a unique associated symbol. Putting mods of the correct polarization into a polarized slot will lower the mod capacity used by 50%, rounded up. Conversely equipping mods of the different polarization into a polarized slot will increase mod capacity drain by a quarter of the starting cost of mod, rounded.
+
+Mod RankEdit
+Main article: Fusion
+
+Mods have levels ranging from 0 to as high as 10 (typically 3-5). When the level of a mod is greater than zero, it is indicated by blue stars on the bottom of the card.
+Each rank requires twice the mod energy than the previous rank to level up and leveling up from rank 0 to 1 sets the base amount of mod energy for this calculation.
+
+Conclave ScoreEdit
+Main article: Conclave
+
+Conclave Score was a special score once used for the Conclave. As Conclave 2.0 was added, this feature became no longer used for Conclave. 
+Since Update: The Silver Grove an unlisted change removed Conclave Score from every equipment and mod.
+
+Mod RatingEdit
+Each Tenno's mod collection has an overall rating, which is visible in the upper-right corner of the Mod Collection screen. The mod score is directly correlated to how much Endo the mod will yield when dissolved.
+
+ Point Tables ▾▾
+
+
+
+Mod Rank
+Common
+Uncommon
+Rare
+Legendary
+
+
+ 0
+ 4
+ 10
+ 15
+ 20
+
+
+1
+ 8
+ 18
+ 28
+ 40
+
+
+2
+ 12
+ 25
+ 40
+ 60
+
+
+3
+ 15
+ 33
+ 53
+ 80
+
+
+4
+ 18
+ 40
+ 65
+ 100
+
+
+5
+ 21
+ 48
+ 78
+ 120
+
+
+6
+ 25
+ 55
+ 90
+ 140
+
+
+7
+ 28
+ 62
+ 103
+ 160
+
+
+8
+ 31
+ 70
+ 115
+ 180
+
+
+9
+ 34
+ 78
+ 128
+ 200
+
+
+10
+ 38
+ 85
+ 140
+ 220
+
+
+Mod Stacking, Selling And DissolvingEdit
+Introduced in Update 12.0, mods of the same type and fusion level will be placed into a mod stack, with a number on the top left showing how many of that card is available. This process is essential in reducing clutter and is also used to ease the process of selling or dissolving mods.
+When selling a mod, you can either select one or a stack, and click "Sell". This will sell the selected amount.
+This stacking system also plays a role in Fusion. You can dissolve mods into Endo and use it to level up other mods. To dissolve select a mod or a stack of mods and click "Dissolve ".
+
+Installing ModsEdit
+To install mods on an item, drag a mod from the collection and drop it on a Mod slot. If the Mod Capacity drain is less or equal to the item’s remaining Mod Capacity it will install and Mod Capacity will be deducted. Drain can be modified by polarities:
+
+Matching polarity reduces drain: (e.g.  Serration costs 14, but dropped into a Madurai polarized slot costs only 7)
+Differing polarity increases drain by a quarter, rounded mathematically: mod levels 0-1 add 0, mods 2-5 add 1, mods 6-9 add 2, mods 10-13 add 3, mods 14-16 add 4, etc.
+
+Bonus StackingEdit
+Main article: Calculating Mod Bonuses
+
+To prevent exponential bonus stacking, players can't put duplicate mods in a single piece of equipment. For example, a given pistol can only have one  Hornet Strike mod in it at a time. However, a dual stat mod can be applied at the same time as a mod that gives one of its stats. For instance,  Vitality and  Vigor can both be applied to same Warframe, while Vitality increases Maximum Health, and Vigor increases Maximum Health and Shield Capacity. Also, a mod can't be installed at the same time as its Primed counterpart. For example,  Flow and  Primed Flow can't be both installed on a frame.
+For mods increasing shield, health or power, bonuses are calculated from the Warframe's base value. This prevents exponential increases with the passive leveling bonuses introduced in Update 7.6.
+Mods increasing damage or adding special damage types do not conflict with each other and may be stacked to increase the overall damage output. However each two elemental mods will be added up into a Combined Element, with different damage multipliers against certain enemies. For combined elements, the slots are ordered from left to right, top row then bottom row, with any inherent elemental damage (from the weapon) added last.
+
+FusionEdit
+Main article: Fusion
+
+Mods can have their overall power increased by the process called Fusion. Fusing with a mod with Endo increases the rank and overall power of the mod.
+
+Special ModsEdit
+Types of mods with special characteristics are listed below:
+
+Aura ModsEdit
+
+Main article: Aura
+
+Aura Mods are Warframe mods that benefit the entire Squad and also increase the player's Warframe total mod capacity. They can only be equipped in the dedicated Aura slot and only one Aura can be equipped to a Warframe. They can normally be obtained from Nightwave Cred offerings, but some drop from The Silver Grove specters and Nox.
+
+
+Stance ModsEdit
+
+Main article: Stance
+
+Stance Mods are special mods for Melee Weapons. They increase the player's melee weapon mod capacity and unlock unique attack combos. They can only be equipped in the dedicated Stance slot for a specific weapon type and only one Stance can be equipped to a melee weapon.
+
+
+Exilus ModsEdit
+
+Main article: Category:Exilus Mods
+
+Exilus Mods are utility or mobility based mods that can be equipped on any Warframe mod slots or the dedicated Exilus slot. The Exilus slot must be unlocked with an Exilus Adapter.
+
+
+Nightmare Mode ModsEdit
+
+Main article: Category:Nightmare Mode Mods
+
+Nightmare Mode Mods are essentially mods with dual stats. They can be acquired through completing missions in Nightmare Mode.
+
+
+Corrupted ModsEdit
+
+Main article: Category:Corrupted Mods
+
+Corrupted mods can be obtained from the Orokin Derelict, using special Dragon Keys to unlock vaults located within. These mods have dual stats, one being a bonus, the other being a negative side effect.
+
+
+Augment ModsEdit
+
+Main article: Category:Augment Mods
+
+Augment Mods are Syndicate Offerings that provide augmentation to a specific Warframe or weapon.
+
+
+Conclave ModsEdit
+
+Main article: Category:PvP Mods
+
+Conclave Mods can be acquired from the Conclave Syndicate and can only be used during Conclave (PvP) matches.
+
+
+Flawed ModsEdit
+
+Main article: Flawed Mods
+
+Flawed mods are weaker versions of various normal mods that are automatically picked up during the course of the Vor's Prize quest missions.
+
+
+Primed ModsEdit
+
+Main article: Category:Primed Mods
+
+Primed Mods are legendary versions of normal mods which increase the maximum mod rank to 10. They can normally be obtained from Baro Ki'Teer, but three primed mods,  Primed Fury,  Primed Vigor, and  Primed Shred are only obtained from 200/400/600 Daily Tributes respectively and cannot be traded with players.
+
+ Riven Mods Edit
+
+Main article: Riven Mods
+
+Riven Mods are special weapon mods that can feature up to four random different stats, sometimes disadvantageous. A single Rifle Riven Mod is given to players upon completion of The War Within quest, and additional Riven Mods can be acquired as rewards from Sorties. When acquired, Riven Mods come in a veiled variant which supplies no stats and must have a challenge completed in order to unveil it. The only way to obtain unveiled Riven Mods directly is trading with players. All Riven Mods are unique to a specific weapon upon being unveiled, and therefore cannot be equipped to any other weapon.
+
+Set ModsEdit
+
+Main article: Set Mods
+
+Set Mods are weapon and Warframe mods which function like regular common to rare mods on their own but if the specific number of the set is equipped all at the same time, they grant an additional bonus set effect. They are distinguishable by their shared set prefix (Augur, Gladiator, Vigilante, Hunter) and icon on top of their card.
+
+
+Peculiar ModsEdit
+
+Main article: Category:Peculiar Mods
+
+Peculiar Mods are Warframe Exilus mods which function does not offer any real improvements at all, only causing bizarre side effects oftentimes in a humorous way. These mods, despite offering no real benefit to their users at all, are oddly one of the rarest and most difficult artifact to obtain in the system.
+
+
+Amalgam ModsEdit
+
+Main article: Category:Amalgam Mods
+
+Amalgam Mods are Warframe or Weapon mods which are combinations ("Amalgamations") of two existing mods, for example  Amalgam Serration a combination of  Serration and  Rush. These mods thus offer two wildly different stat bonuses in one slot, though neither as strong as their original's one, hence encouraging a more broad and universal approach to specialization instead of min-maxing. 
+
+
+Mod ListEdit
+View Warframe Mod List▾▾
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Adaptation
+Increases damage resistance to the last damage type received
+
+Rare
+None
+
+
+ Adept Surge
+Increases mobilityReduces healthExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Adrenaline Boost
+Increases energyReduces healthExclusive to PvP
+
+Rare
+None
+
+
+ Agility Drift
+Reduces damage taken while airborne  Reduces enemy accuracy when targeting the player
+
+Rare
+Exilus, Drift
+
+
+ Air Thrusters
+Increases slide boost while airborneReduces mobilityExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Anti-Flak Plating
+Increases  Blast resistanceReduces mobilityExclusive to PvP
+
+Uncommon
+None
+
+
+ Anticipation
+Increases knockdown immunity after being knocked downIncreases stagger immunity after being staggeredExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Antitoxin
+Adds  Toxin damage resistance
+
+Uncommon
+None
+
+
+ Armored Acrobatics
+Increases damage resistance while bullet jumpingReduces mobilityExclusive to PvP
+
+Uncommon
+None
+
+
+ Armored Agility
+Increases ArmorIncreases sprint speed
+
+Rare
+Nightmare
+
+
+ Armored Evade
+Increases damage resistance while dodgingReduces mobilityExclusive to PvP
+
+Uncommon
+None
+
+
+ Armored Recovery
+Increases damage resistance while knocked downReduces slideExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Augur Accord
+Increases shield capacity
+
+Common
+Set Mod
+
+
+ Augur Message
+Increases Ability Duration
+
+Common
+Set Mod
+
+
+ Augur Reach
+Increases Ability Range
+
+Common
+Set Mod
+
+
+ Augur Secrets
+Increases Ability Strength
+
+Common
+Set Mod
+
+
+ Aviator
+Reduces damage taken while airborne
+
+Common
+Exilus
+
+
+ Battering Maneuver
+Increases bullet jump  Increases aim glide and wall latch  Adds  Impact damage on bullet jump
+
+Uncommon
+Exilus
+
+
+ Blind Rage
+Increases Ability StrengthReduces Ability Efficiency
+
+Rare
+Corrupted
+
+
+ Calculated Spring
+Increases healthReduces mobilityExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Coaction Drift
+Increases Aura strength  Increases Aura effectiveness
+
+Rare
+Exilus, Drift
+
+
+ Constitution
+Increases knockdown recovery speedIncreases Ability Duration
+
+Rare
+Nightmare
+
+
+ Continuity
+Increases Ability Duration
+
+Rare
+None
+
+
+ Cunning Drift
+Increases slide  Reduces friction  Increases Ability Range
+
+Rare
+Exilus, Drift
+
+
+ Diamond Skin
+Adds  Radiation damage resistance
+
+Uncommon
+None
+
+
+ Endurance Drift
+Increases maximum energy  Reduces parkour velocity
+
+Rare
+Exilus, Drift
+
+
+ Enemy Sense
+Pinpoints enemy locations on minimap
+
+Rare
+Exilus
+
+
+ Energy Conversion
+Increases Ability Strength for the next ability cast after picking up an energy orb
+
+Rare
+None
+
+
+ Equilibrium
+Provides energy when picking up health orbsProvides health when picking up energy orbs
+ 
+Uncommon
+None
+
+
+ Fast Deflection
+Increases shield recharge rate
+
+Uncommon
+None
+
+
+ Final Act
+Increases Ability Strength  and casting speed for a brief time upon reaching low healthExclusive to PvP
+
+Rare
+None
+
+
+ Firewalker
+Increases bullet jump  Increases aim glide and wall latch  Adds  Heat damage on bullet jump
+
+Rare
+Exilus
+
+
+ Flame Repellent
+Adds  Fire damage resistance
+
+Common
+None
+
+
+ Fleeting Expertise
+Increases Ability EfficiencyReduces Ability Duration
+
+Rare
+Corrupted
+
+
+ Flow
+Increases maximum energy
+
+Rare
+None
+
+
+ Follow Through
+Increases energy gained at respawnExclusive to PvP
+
+Uncommon
+None
+
+
+ Fortitude
+Adds chance to resist knockdownIncreases shield recharge rate
+
+Rare
+Nightmare
+
+
+ Gladiator Aegis
+Increases armor
+
+Common
+Set Mod
+
+
+ Gladiator Finesse
+Drains energy to stop lethal damage
+
+Rare
+Set Mod
+
+
+ Gladiator Resolve
+Increases health
+
+Uncommon
+Set Mod
+
+
+ Handspring
+Increases knockdown recovery speed
+
+Rare
+Exilus
+
+
+ Hastened Steps
+Increases sprint speedReduces shield capacityExclusive to PvP
+
+Rare
+None
+
+
+ Health Conversion
+Increases Armor for every Health Orb picked up
+
+Rare
+None
+
+
+ Heavy Impact
+Heavy landings create damaging and stunning shockwaves
+
+Uncommon
+Exilus
+
+
+ Heightened Reflexes
+Increases casting speedReduces Ability EfficiencyExclusive to PvP
+
+Rare
+None
+
+
+ Hunter Adrenaline
+Damage to health restores Warframe energy
+
+Common
+Set Mod
+
+
+ Ice Spring
+Increases bullet jump  Increases aim glide and wall latch  Adds  Cold damage on bullet jump
+
+Rare
+Exilus
+
+
+ Insulation
+Adds  Cold damage resistance
+
+Common
+None
+
+
+ Intensify
+Increases Ability Strength
+
+Rare
+None
+
+
+ Intruder
+Increases hacking time
+
+Common
+Exilus
+
+
+ Lightning Dash
+Increases bullet jump  Increases aim glide and wall latch  Adds  Electric damage on bullet jump
+
+Rare
+Exilus
+
+
+ Lightning Rod
+Adds  Electricity damage resistance
+
+Common
+None
+
+
+ Maglev
+Increases slide speedReduces friction
+
+Uncommon
+Exilus
+
+
+ Master Thief
+Adds chance to unlock locked lockers
+
+Rare
+Exilus
+
+
+ Mecha Pulse
+Increases armor when killing a marked enemy
+
+Rare
+Set Mod
+
+
+ Mobilize
+Increases bullet jump  Increases aim glide and wall latch
+
+Uncommon
+Exilus
+
+
+ Narrow Minded
+Increases Ability DurationReduces Ability Range
+
+Rare
+Corrupted
+
+
+ Natural Talent
+Increases cast speed
+
+Rare
+None
+
+
+ No Current Leap
+Increases mobilityDisables energy regenExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Overcharge Detectors
+Exposes enemies who are at maximum energyExclusive to PvP
+
+Uncommon
+None
+
+
+ Overcharged
+Converts respawn energy into overshieldsExclusive to PvP
+
+Rare
+None
+
+
+ Overextended
+Increases Ability RangeReduces Ability Strength
+
+Rare
+Corrupted
+
+
+ Pain Threshold
+Increases stagger recovery
+
+Rare
+Exilus
+
+
+ Patagium
+Increases aim glide and wall latch
+
+Uncommon
+Exilus
+
+
+ Peculiar Bloom
+Critical hits cause flowers to grow from the wounds
+
+Peculiar
+Exilus
+
+
+ Peculiar Growth
+Damaging an enemy will inflate the body part hit
+
+Peculiar
+Exilus
+
+
+ Piercing Step
+Increases bullet jump  Increases aim glide and wall latch  Adds  Puncture damage on bullet jump
+
+Uncommon
+Exilus
+
+
+ Power Drift
+Increases Ability Strength  Increases chance to resist knockdown
+
+Rare
+Exilus, Drift
+
+
+ Primed Continuity
+Increases Ability Duration
+
+Legendary
+None
+
+
+ Primed Flow
+Increases maximum energy
+
+Legendary
+None
+
+
+ Primed Sure Footed
+Adds chance to resist knockdown
+
+Legendary
+Exilus
+
+
+ Primed Vigor
+Increases maximum healthIncreases maximum shield capacity
+
+Legendary
+None
+
+
+ Provoked
+Increases damage dealt during bleedout
+
+Uncommon
+None
+
+
+ Quick Charge
+Reduces shield recharge delayReduces shield capacityExclusive to PvP
+
+Rare
+None
+
+
+ Quick Thinking
+Warframe energy is automatically used to absorb and prevent lethal damage
+
+Rare
+None
+
+
+ Rage
+Damage to health restores Warframe energy
+
+Rare
+None
+
+
+ Rapid Resilience
+Reduces status duration on self
+
+Rare
+None
+
+
+ Redirection
+Increases maximum shield capacity
+
+Common
+None
+
+
+ Reflection
+Damage is reflected back at melee attackers while blocking
+
+Common
+None
+
+
+ Reflex Guard
+Warframe can automatically parry incoming attacks, and will always parry certain special attacks
+
+Rare
+None
+
+
+ Rending Turn
+Increases bullet jump  Increases aim glide and wall latch  Adds  Slash damage on bullet jump
+
+Uncommon
+Exilus
+
+
+ Retribution
+Adds chance to do  Electricity damage to melee attackers that damage your shields
+
+Rare
+Exilus
+
+
+ Rime Vault
+Adds cosmetic  Cold effect to bullet jumpExclusive to PvP
+
+Rare
+Exilus
+
+
+ Rising Skill
+Increases mobilityReduces shield capacityExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Rolling Guard
+Adds a period of invulnerability when rolling  Removes all status effects when rolling
+
+Rare
+None
+
+
+ Rush
+Increases sprint speed
+
+Uncommon
+Exilus
+
+
+ Searing Leap
+Adds cosmetic  Heat effect to bullet jumpExclusive to PvP
+
+Rare
+Exilus
+
+
+ Shock Absorbers
+Increases damage resistance when knocked down
+
+Rare
+Exilus
+
+
+ Speed Drift
+Increases sprint speed  Increases casting speed
+
+Rare
+Exilus, Drift
+
+
+ Stealth Drift
+Increases enemy radar  Increases aim glide and wall latch
+
+Rare
+Exilus, Drift
+
+
+ Steel Fiber
+Increases armor
+
+Common
+None
+
+
+ Strain Consume
+Maggots are consumed to restore health
+
+Rare
+Set Mod
+
+
+ Streamline
+Increases Ability Efficiency
+
+Rare
+None
+
+
+ Streamlined Form
+Increases weapon switch speedIncreases slide speedReduces friction
+
+Rare
+Exilus, Nightmare
+
+
+ Stretch
+Increases Ability Range
+
+Uncommon
+None
+
+
+ Sure Footed
+Adds chance to resist knockdown
+
+Rare
+Exilus
+
+
+ Surplus Diverters
+Grants energy after refilling shields after they have been deactivatedExclusive to PvP
+
+Rare
+None
+
+
+ Synth Reflex
+Increases holster speed
+
+Rare
+Exilus, Set Mod
+
+
+ Tactical Retreat
+Increases mobility for a brief time upon reaching low healthExclusive to PvP
+
+Rare
+None
+
+
+ Tek Collateral
+Increases critical damage when inside the marked zone
+
+Rare
+Set Mod
+
+
+ Tempered Bound
+Increases shield capacityReduces mobilityExclusive to PvP
+
+Uncommon
+Exilus
+
+
+ Thief's Wit
+Displays location of containers and resources on minimapMakes mods visible through walls
+
+Common
+Exilus
+
+
+ Toxic Flight
+Increases bullet jump  Increases aim glide and wall latch  Adds  Toxin damage on bullet jump
+
+Rare
+Exilus
+
+
+ Transient Fortitude
+Increases Ability StrengthReduces Ability Duration
+
+Rare
+Corrupted
+
+
+ Umbral Fiber
+Increases armor
+
+Legendary
+Set Mod
+
+
+ Umbral Intensify
+Increases Ability Strength
+
+Legendary
+Set Mod
+
+
+ Umbral Vitality
+Increases health
+
+Legendary
+Set Mod
+
+
+ Undying Will
+Reduces bleedout rate
+
+Rare
+None
+
+
+ Venomous Rise
+Adds cosmetic  Toxin effect to bullet jumpExclusive to PvP
+
+Rare
+Exilus
+
+
+ Vigilante Pursuit
+Increases enemy radar
+
+Common
+Exilus, Set Mod
+
+
+ Vigilante Vigor
+Increases shield recharge
+
+Common
+Set Mod
+
+
+ Vigor
+Increases maximum healthIncreases maximum shield capacity
+
+Rare
+Nightmare
+
+
+ Vigorous Swap
+Increases holster speed  Increases damage upon switching weapons
+
+Rare
+None
+
+
+ Vital Systems Bypass
+Increases health regenIncreases shield recharge delayExclusive to PvP
+
+Rare
+None
+
+
+ Vitality
+Increases maximum health
+
+Common
+None
+
+
+ Voltaic Lance
+Adds cosmetic  Electricity effect to bullet jumpExclusive to PvP
+
+Rare
+Exilus
+
+
+ Warm Coat
+Reduces amount of shields lost to ice/cryo level hazard
+
+Common
+Exilus
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+  Brief Respite
+ Grants shields  equal to a % of energy spent 
+ 
+ Uncommon
+ None
+
+
+  Corrosive Projection
+ Reduces enemy armor
+ 
+ Uncommon
+ None
+
+
+  Dead Eye
+ Increases sniper rifle damage
+ 
+ Uncommon
+ None
+
+
+  EMP Aura
+ Reduces Corpus enemies' accuracy
+ 
+ Uncommon
+ None
+
+
+  Empowered Blades
+ Increases status chance and status damage of charged melee attacks
+ 
+ Rare
+ None
+
+
+  Enemy Radar
+ Pinpoints enemy locations on mini-map
+ 
+ Uncommon
+ None
+
+
+  Energy Siphon
+ Provides constant energy regeneration
+ 
+ Uncommon
+ None
+
+
+  Growing Power
+ Increases Ability Strength after status proc
+ 
+ Rare
+ None
+
+
+  Infested Impedance
+ Reduces speed of nearby Infested units
+ 
+ Uncommon
+ None
+
+
+  Loot Detector
+ Displays location of containers and resources on minimap and makes modifications visible through walls
+ 
+ Uncommon
+ None
+
+
+  Mecha Empowered
+ Increases damage against marked enemies
+ 
+ Rare
+ Set Mod
+
+
+  Physique
+ Increases maximum health
+ 
+ Uncommon
+ None
+
+
+  Pistol Amp
+ Increases secondary weapon damage
+ 
+ Uncommon
+ None
+
+
+  Pistol Scavenger
+ Increases ammo recovery for pistols
+ 
+ Uncommon
+ None
+
+
+  Power Donation
+ Increases allies' Ability Strength  Reduces player's Ability Strength
+ 
+ Rare
+ None
+
+
+  Rejuvenation
+ Provides constant health regeneration
+ 
+ Uncommon
+ None
+
+
+  Rifle Amp
+ Increases assault rifle damage
+ 
+ Uncommon
+ None
+
+
+  Rifle Scavenger
+ Increases ammo recovery for assault rifles
+ 
+ Uncommon
+ None
+
+
+  Shield Disruption
+ Reduces enemy shields
+ 
+ Uncommon
+ None
+
+
+  Shotgun Amp
+ Increases shotgun damage
+ 
+ Uncommon
+ None
+
+
+  Shotgun Scavenger
+ Increases ammo recovery for shotguns
+ 
+ Uncommon
+ None
+
+
+  Sniper Scavenger
+ Increases ammo recovery for sniper rifles
+ 
+ Uncommon
+ None
+
+
+  Speed Holster
+ Increases weapon switch speed
+ 
+ Uncommon
+ None
+
+
+  Sprint Boost
+ Increases sprinting speed
+ 
+ Uncommon
+ None
+
+
+  Stand United
+ Increases armor
+ 
+ Uncommon
+ None
+
+
+  Steel Charge
+ Increases melee weapon damage
+ 
+ Uncommon
+ None
+
+
+  Toxin Resistance
+ Reduces toxin damage
+ 
+ Uncommon
+ None
+
+
+
+
+
+View Weapon Mod List▾▾
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Hunter Munitions
+Chance to apply  Slash status on critical hits
+
+Uncommon
+Set Mod
+
+
+ Hunter Track
+Increases status duration
+
+Rare
+Set Mod
+
+
+ Vigilante Armaments
+Increases multishot
+
+Common
+Set Mod
+
+
+ Vigilante Fervor
+Increases fire rate
+
+Uncommon
+Set Mod
+
+
+ Vigilante Offense
+Increases punch through
+
+Rare
+Set Mod
+
+
+ Vigilante Supplies
+Converts any unused ammo types collected into Primary Weapon Ammo
+
+Rare
+Set Mod
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Adhesive Blast
+Allows grenades fired from weapons such as the  Ogris, the  Penta and others to stick to surfaces
+
+Rare
+None
+
+
+ Agile Aim
+Increases movement speed while aiming
+
+Uncommon
+None
+
+
+ Amalgam Serration
+Increases base damageIncreases sprint speed
+
+Amalgam
+Amalgam
+
+
+ Ammo Drum
+Increases maximum ammunition capacity
+
+Common
+None
+
+
+ Apex Predator
+Adds temporary Target-Tracking to the map on hitExclusive to PvP
+
+Uncommon
+None
+
+
+ Argon Scope
+Increases Critical Hit chance while aiming for a brief time upon a headshot
+
+Rare
+Acolyte
+
+
+ Bane of Corpus
+Increases damage dealt to all Corpus units
+
+Uncommon
+None
+
+
+ Bane of Corrupted
+Increases damage dealt to all Corrupted units
+
+Uncommon
+None
+
+
+ Bane of Grineer
+Increases damage dealt to all Grineer units
+
+Uncommon
+None
+
+
+ Bane of Infested
+Increases damage dealt to all Infested units
+
+Uncommon
+None
+
+
+ Bladed Rounds
+Increases Critical Hit damage while aiming for a brief time upon kill
+
+Uncommon
+Acolyte
+
+
+ Catalyzer Link
+Increases status chance while aiming for a brief time upon casting an ability
+
+Common
+Acolyte
+
+
+ Cautious Shot
+Decreases self-damage from explosive weaponsDecreases damage
+
+Rare
+None
+
+
+ Combustion Beam
+Enemies killed with rifle beam weapons explode
+
+Rare
+None
+
+
+ Comet Rounds
+Converts a percentage of the weapon's damage into  Impact damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Continuous Misery
+Increases status duration
+
+Common
+None
+
+
+ Crash Course
+Increases base  Impact damage
+
+Rare
+None
+
+
+ Critical Delay
+Increases Critical Hit chanceReduces rate of fire
+
+Rare
+Corrupted
+
+
+ Cryo Rounds
+Adds  Cold damage to the weapon
+
+Uncommon
+None
+
+
+ Eagle Eye
+Increases zoom level
+
+Uncommon
+None
+
+
+ Fanged Fusillade
+Increases base  Slash damage
+
+Rare
+None
+
+
+ Fast Hands
+Increases reload speed
+
+Common
+None
+
+
+ Firestorm
+Increases the blast radius of explosive weapons such as the  Ogris, the  Opticor, the  Penta and othersIncreases the radius of  Torid's gas clouds
+
+Rare
+None
+
+
+ Hammer Shot
+Increases Critical Hit damageIncreases chance of causing status effects
+
+Rare
+Nightmare
+
+
+ Heavy Caliber
+Increases base damageReduces accuracy
+
+Rare
+Corrupted
+
+
+ Hellfire
+Adds  Heat damage damage to the weapon
+
+Uncommon
+None
+
+
+ High Voltage
+Increases chance of causing status effectsAdds  Electricity damage to the weapon
+
+Rare
+None
+
+
+ Hush
+Reduces noise generated by firing
+
+Common
+None
+
+
+ Infected Clip
+Adds  Toxin damage to the weapon
+
+Uncommon
+None
+
+
+ Lucky Shot
+Increases projectile flight speedReduces accuracyExclusive to PvP
+
+Uncommon
+None
+
+
+ Magazine Warp
+Increases magazine capacity
+
+Common
+None
+
+
+ Malignant Force
+Increases chance of causing status effectsAdds  Toxin damage to the weapon
+
+Rare
+None
+
+
+ Metal Auger
+Adds object/enemy penetration to projectiles
+
+Rare
+None
+
+
+ Piercing Caliber
+Increases base  Puncture damage
+
+Rare
+None
+
+
+ Piercing Hit
+Increases base  Puncture damage
+
+Common
+None
+
+
+ Point Strike
+Increases critical hit chance
+
+Common
+None
+
+
+ Primed Bane of Corpus
+Increases damage dealt to all Corpus units
+
+Legendary
+None
+
+
+ Primed Bane of Corrupted
+Increases damage dealt to all Corrupted units
+
+Legendary
+None
+
+
+ Primed Bane of Grineer
+Increases damage dealt to all Grineer units
+
+Legendary
+None
+
+
+ Primed Bane of Infested
+Increases damage dealt to all Infested units
+
+Legendary
+None
+
+
+ Primed Cryo Rounds
+Adds  Cold damage to the weapon
+
+Legendary
+None
+
+
+ Primed Fast Hands
+Increases reload speed
+
+Legendary
+None
+
+
+ Primed Shred
+Increases firing speed and punch through
+
+Legendary
+None
+
+
+ Recover
+Adds Chance to Restore Health on KillExclusive to PvP
+
+Rare
+None
+
+
+ Rifle Aptitude
+Increases chance of causing status effects
+
+Uncommon
+None
+
+
+ Rime Rounds
+Increases chance of causing status effectsAdds  Cold damage to the weapon
+
+Rare
+None
+
+
+ Ripper Rounds
+Converts a percentage of the weapon's damage into  Puncture damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Rupture
+Increases base  Impact damage
+
+Common
+None
+
+
+ Sawtooth Clip
+Increases base  Slash damage
+
+Common
+None
+
+
+ Serrated Rounds
+Converts a percentage of the weapon's damage into  Slash damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Serration
+Increases base damage
+
+Uncommon
+None
+
+
+ Shred
+Adds object/enemy penetration to projectilesIncreases rate of fire
+
+Rare
+Nightmare
+
+
+ Sinister Reach
+Increases the range of rifle beam weapons
+
+Uncommon
+None
+
+
+ Speed Trigger
+Increases rate of fire
+
+Uncommon
+None
+
+
+ Split Chamber
+Adds chance of shooting multiple projectiles
+
+Rare
+None
+
+
+ Stabilizer
+Reduces recoil generated when firing
+
+Rare
+None
+
+
+ Stormbringer
+Adds  Electricity damage to the weapon
+
+Uncommon
+None
+
+
+ Terminal Velocity
+Increases Rifle's Projectiles Flight Speed
+
+Uncommon
+None
+
+
+ Thermite Rounds
+Increases chance of causing status effectsAdds  Heat damage to the weapon
+
+Rare
+None
+
+
+ Twitch
+Increases the holster rate
+
+Uncommon
+None
+
+
+ Vanquished Prey
+Adds Chance to Restore Shield on KillExclusive to PvP
+
+Rare
+None
+
+
+ Vile Acceleration
+Increases rate of fireReduces damage
+
+Rare
+Corrupted
+
+
+ Vile Precision
+Reduces recoil generated when firingReduces rate of fire
+
+Rare
+Corrupted
+
+
+ Vital Sense
+Increases Critical Hit damage
+
+Rare
+None
+
+
+ Wildfire
+Increases magazine capacityAdds  Heat damage to the weapon
+
+Rare
+Nightmare
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+  Deft Tempo
+ Headshots increase bullet jumping temporarilyExclusive to PvP
+ 
+ Rare
+ None
+
+
+  Guided Ordnance
+ Increases accuracy while aiming upon hitting an enemy.
+ 
+ Uncommon
+ Acolyte
+
+
+  Gun Glide
+ Reduces recoil and spread while sliding
+ 
+ Rare
+ None
+
+
+  Hydraulic Gauge
+ Reduces recoilDecreases magazine capacityExclusive to PvP
+ 
+ Rare
+ None
+
+
+  Loose Hatch
+ Increases reload speedIncreases recoilExclusive to PvP
+ 
+ Common
+ None
+
+
+  Maximum Capacity
+ Increases magazine capacityDecreases reload speedExclusive to PvP
+ 
+ Common
+ None
+
+
+  Overview
+ Reduces zoom while Aim Gliding
+ 
+ Uncommon
+ None
+
+
+  Rifle Ammo Mutation
+ Converts any unused ammo types collected into Rifle Ammo
+ 
+ Rare
+ None
+
+
+  Primed Rifle Ammo Mutation
+ Converts any unused ammo types collected into Rifle Ammo
+ 
+ Legendary
+ None
+
+
+  Spring-Loaded Chamber
+ Increases rate of fire for a brief time upon reloading.
+ 
+ Uncommon
+ Acolyte
+
+
+  Tactical Reload
+ Adds passive reload over time while holstered
+ 
+ Rare
+ None
+
+
+  Tainted Mag
+ Increases magazine capacityDecreases reload speed
+ 
+ Rare
+ Corrupted
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Accelerated Blast
+Increases rate of fireIncreases base  Puncture damage
+
+Rare
+Nightmare
+
+
+ Amalgam Shotgun Spazz
+Increases rate of fireIncreases revive speed
+
+Amalgam
+Amalgam
+
+
+ Ammo Stock
+Increases magazine capacity
+
+Uncommon
+None
+
+
+ Blaze
+Increases base damageAdds  Fire damage to the weapon
+
+Rare
+Nightmare
+
+
+ Blunderbuss
+Increases Critical Hit chance
+
+Common
+None
+
+
+ Bounty Hunter
+Adds temporary Target-Tracking to the map on hitExclusive to PvP
+
+Uncommon
+None
+
+
+ Breach Loader
+Increases base  Puncture damage
+
+Rare
+None
+
+
+ Broad Eye
+Reduces zoom while Aim Gliding
+
+Uncommon
+None
+
+
+ Burdened Magazine
+Increases magazine capacityDecreases reload speed
+
+Rare
+Corrupted
+
+
+ Charged Shell
+Adds  Electricity damage to the weapon
+
+Uncommon
+None
+
+
+ Chilling Grasp
+Adds  Cold damage to the weapon
+
+Uncommon
+None
+
+
+ Chilling Reload
+Adds  Cold damage to the weaponReduces reload time
+
+Rare
+Nightmare
+
+
+ Cleanse Corpus
+Increases damage dealt to all Corpus units
+
+Uncommon
+None
+
+
+ Cleanse Corrupted
+Increases damage dealt to all Corrupted units
+
+Uncommon
+None
+
+
+ Cleanse Grineer
+Increases damage dealt to all Grineer units
+
+Uncommon
+None
+
+
+ Cleanse Infested
+Increases damage dealt to all Infested units
+
+Uncommon
+None
+
+
+ Contagious Spread
+Adds  Toxin damage to the weapon
+
+Uncommon
+None
+
+
+ Crash Shot
+Converts a percentage of the weapon's damage into  Impact damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Critical Deceleration
+Increases Critical Hit chanceDecreases Fire Rate
+
+Rare
+Corrupted
+
+
+ Disruptor
+Increases base  Impact damage
+
+Common
+None
+
+
+ Double-Barrel Drift
+Reduces recoil and spread while sliding
+
+Rare
+None
+
+
+ Fatal Acceleration
+Increases flight speed of shotgun rounds
+
+Uncommon
+None
+
+
+ Flak Shot
+Converts a percentage of the weapon's damage into  Slash damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Flechette
+Increases base  Puncture damage
+
+Common
+None
+
+
+ Frail Momentum
+Increases rate of fireDecreases damage
+
+Rare
+Corrupted
+
+
+ Frigid Blast
+Increases chance of causing status effectsAdds  Cold damage to the weapon
+
+Rare
+None
+
+
+ Full Contact
+Increases base  Impact damage
+
+Rare
+None
+
+
+ Hell's Chamber
+Increases number of projectiles
+
+Rare
+None
+
+
+ Hydraulic Chamber
+Reduces recoil generated while firingDecreases magazine capacityExclusive to PvP
+
+Rare
+None
+
+
+ Incendiary Coat
+Adds  Fire damage to the weapon
+
+Uncommon
+None
+
+
+ Kill Switch
+Reduces reload time for 3 seconds on KillExclusive to PvP
+
+Rare
+None
+
+
+ Laser Sight
+Increases Critical Hit chance while aiming for a brief time upon a headshot
+
+Uncommon
+Acolyte
+
+
+ Lingering Torment
+Increases status duration
+
+Common
+None
+
+
+ Loaded Capacity
+Increases magazine capacityIncreases reload timeExclusive to PvP
+
+Common
+None
+
+
+ Lock and Load
+Adds passive reload over time while holstered
+
+Rare
+None
+
+
+ Loose Chamber
+Reduces reload timeIncreases recoil generated while firingExclusive to PvP
+
+Common
+None
+
+
+ Momentary Pause
+Adds Chance to Restore Health on KillExclusive to PvP
+
+Rare
+None
+
+
+ Nano-Applicator
+Increases chance of causing status effects while aiming for a brief time after casting an ability
+
+Rare
+Acolyte
+
+
+ Narrow Barrel
+Increases accuracy while aiming for a brief time upon hitting an enemy
+
+Rare
+Acolyte
+
+
+ Point Blank
+Increases base damage
+
+Uncommon
+None
+
+
+ Primed Charged Shell
+Adds  Electricity damage to the weapon
+
+Legendary
+None
+
+
+ Primed Point Blank
+Increases base damage
+
+Legendary
+None
+
+
+ Primed Ravage
+Increases Critical Hit damage
+
+Legendary
+None
+
+
+ Primed Shotgun Ammo Mutation
+Converts any unused ammo types collected into Shotgun Ammo
+
+Legendary
+None
+
+
+ Prize Kill
+Adds Chance to Restore Shield on KillExclusive to PvP
+
+Rare
+None
+
+
+ Ravage
+Increases Critical Hit damage
+
+Rare
+None
+
+
+ Repeater Clip
+Increases rate of fire while aiming for a brief time upon reloading
+
+Uncommon
+Acolyte
+
+
+ Scattering Inferno
+Increases chance of causing status effectsAdds  Fire damage to the weapon
+
+Rare
+None
+
+
+ Seeking Force
+Adds Punch Through to projectiles
+
+Rare
+None
+
+
+ Seeking Fury
+Adds Punch Through to projectilesReduces reload time
+
+Rare
+Nightmare
+
+
+ Shell Compression
+Increases maximum ammunition capacity
+
+Uncommon
+None
+
+
+ Shell Shock
+Increases chance of causing status effectsAdds  Electricity damage to the weapon
+
+Rare
+None
+
+
+ Shotgun Ammo Mutation
+Converts any unused ammo types collected into Shotgun Ammo
+
+Rare
+None
+
+
+ Shotgun Savvy
+Increases chance of causing status effects
+
+Uncommon
+None
+
+
+ Shotgun Spazz
+Increases rate of fire
+
+Uncommon
+None
+
+
+ Shrapnel Shot
+Increases Critical Hit damage while aiming for a brief time upon a kill
+
+Common
+Acolyte
+
+
+ Shred Shot
+Converts a percentage of the weapon's damage into  Puncture damageExclusive to PvP
+
+ Uncommon
+None
+
+
+ Shredder
+Increases base  Slash damage
+
+Common
+None
+
+
+ Silent Battery
+Reduces noise generated by firing
+
+Uncommon
+None
+
+
+ Snap Shot
+Increases movement speed while aiming
+
+Uncommon
+None
+
+
+ Soft Hands
+Increases the holster rate
+
+Uncommon
+None
+
+
+ Sweeping Serration
+Increases base  Slash damage
+
+Rare
+None
+
+
+ Tactical Pump
+Reduces reload time
+
+Uncommon
+None
+
+
+ Tainted Shell
+Reduces spread of shotgun fireReduces rate of fire
+
+Rare
+Corrupted
+
+
+ Toxic Barrage
+Increases chance of causing status effectsAdds  Toxin damage to the weapon
+
+Rare
+None
+
+
+ Vicious Spread
+Increases base damageIncreases spread of shotgun fire
+
+Rare
+Corrupted
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+  Charged Chamber
+ Increases damage for the first shot in a magazine
+ 
+ Uncommon
+ None
+
+
+  Depleted Reload
+Increases reload speedReduces magazine size
+ 
+ Rare
+ Corrupted
+
+
+  Emergent Aftermath
+ Increases reload speed temporarily on killExclusive to PvP
+ 
+ Rare
+ None
+
+
+  Harkonar Scope
+ Increases a sniper rifle's combo duration while aiming.
+ 
+ Uncommon
+ None
+
+
+  Lie In Wait
+ Increases damage while aimingIncreases recoilExclusive to PvP
+ 
+ Uncommon
+ None
+
+
+  Primed Chamber
+ Increases damage for the first shot in a magazine
+ 
+ Rare
+ None
+
+
+  Sharpshooter
+ Increases energy upon a headshot kill
+ 
+ Rare
+ None
+
+
+  Sniper Ammo Mutation
+ Converts any unused ammo types collected into Sniper Ammo
+ 
+ Rare
+ None
+
+
+  Target Acquired
+ Increases headshot multiplier
+ 
+ Rare
+ None
+
+
+
+
+Name
+ Description
+Polarity
+Rarity
+
+
+  Arrow Mutation
+ Converts any unused ammo types collected into Arrows
+ 
+ Rare
+
+
+  Feathered Arrows
+ Increases flight speedReduces damageExclusive to PvP
+ 
+ Uncommon
+
+
+  Plan B
+Hits increase sidearm fire rate temporarilyExclusive to PvP
+ 
+ Rare
+
+
+  Soaring Strike
+Increases fire rate while airborneExclusive to PvP
+ 
+ Rare
+
+
+  Thunderbolt
+ Gives arrows a chance to explode on impact
+ 
+ Rare
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Air Recon
+Reduces zoom while Aim Gliding
+
+Uncommon
+None
+
+
+ Amalgam Barrel Diffusion
+Adds chance of shooting multiple projectiles or increases projectile count for shotgun pistolsIncreases dodge speed
+
+Amalgam
+Amalgam
+
+
+ Anemic Agility
+Increases rate of fireReduces base damage
+
+Rare
+Corrupted
+
+
+ Augur Pact
+Increases damage
+
+Common
+Set Mod
+
+
+ Augur Seeker
+Increases status duration
+
+Rare
+Set Mod
+
+
+ Barrel Diffusion
+Adds chance of shooting multiple projectiles or increases projectile count for shotgun pistols
+
+Rare
+None
+
+
+ Blind Shot
+Increases projectile flight speedReduces accuracyExclusive to PvP
+
+Rare
+None
+
+
+ Bore
+Increases base  Puncture damage
+
+Rare
+None
+
+
+ Calculated Victory
+Adds Chance to Restore Shield on KillExclusive to PvP
+
+Rare
+None
+
+
+ Concealed Explosives
+Gives thrown weapons such as  Kunai,  Despair and others a chance to explode on impact
+
+Rare
+None
+
+
+ Concussion Rounds
+Increases base  Impact damage
+
+Uncommon
+None
+
+
+ Convulsion
+Adds  Electricity damage to the weapon
+
+Uncommon
+None
+
+
+ Creeping Bullseye
+Increases critical hit chanceReduces rate of fire
+
+Rare
+Corrupted
+
+
+ Deep Freeze
+Adds  Cold damage to the weapon
+
+Uncommon
+None
+
+
+ Eject Magazine
+Adds passive reload over time while holstered
+
+Rare
+None
+
+
+ Embedded Catalyzer
+Increases chance of causing status effects while aiming for a brief time after casting an ability
+
+Uncommon
+Acolyte
+
+
+ Expel Corpus
+Increases damage dealt to all Corpus units
+
+Uncommon
+None
+
+
+ Expel Corrupted
+Increases damage dealt to all Corrupted units
+
+Uncommon
+None
+
+
+ Expel Grineer
+Increases damage dealt to all Grineer units
+
+Uncommon
+None
+
+
+ Expel Infested
+Increases damage dealt to all Infested units
+
+Uncommon
+None
+
+
+ Frostbite
+Increases chance of causing status effectsAdds  Cold damage to the weapon
+
+Rare
+None
+
+
+ Full Capacity
+Increases magazine capacityIncreases reload timeExclusive to PvP
+
+Common
+None
+
+
+ Fulmination
+Increases the blast radius of explosive weapons such as the  Angstrum, the  Castanas, the  Stug and others
+
+Rare
+None
+
+
+ Gunslinger
+Increases rate of fire
+
+Rare
+None
+
+
+ Hawk Eye
+Increases zoom level
+
+Uncommon
+None
+
+
+ Heated Charge
+Adds  Fire damage to the weapon
+
+Uncommon
+None
+
+
+ Heavy Warhead
+Increases Explosion RadiusReduces Pistol's Projectile Flight SpeedExclusive to PvP
+
+Rare
+None
+
+
+ Hollow Point
+Increases critical hit damageReduces base damage
+
+Rare
+Corrupted
+
+
+ Hornet Strike
+Increases base damage
+
+Uncommon
+None
+
+
+ Hydraulic Barrel
+Reduces recoil generated while firingReduces magazine capacityExclusive to PvP
+
+Rare
+None
+
+
+ Hydraulic Crosshairs
+Increases critical hit chance while aiming for a brief time upon a headshot
+
+Common
+Acolyte
+
+
+ Ice Storm
+Adds  Cold damage to the weaponIncreases magazine capacity
+
+Rare
+Nightmare
+
+
+ Impaler Munitions
+Converts a percentage of the weapon's damage into  Puncture damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Jolt
+Increases chance of causing status effectsAdds  Electricity damage to the weapon
+
+Rare
+None
+
+
+ Lethal Momentum
+Increases Pistol's Projectiles Flight Speed
+
+Uncommon
+None
+
+
+ Lethal Torrent
+Adds Multishot chanceIncreases Fire Rate
+
+Rare
+Nightmare
+
+
+ Loose Magazine
+Reduces reload timeIncreases recoil generated while firingExclusive to PvP
+
+Common
+None
+
+
+ Magnum Force
+Increases base damageReduces accuracy
+
+Rare
+Corrupted
+
+
+ Maim
+Increases base  Slash damage
+
+Rare
+None
+
+
+ Meteor Munitions
+Converts a percentage of the weapon's damage into  Impact damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Night Stalker
+Adds temporary Target-Tracking to the map on hitExclusive to PvP
+
+Uncommon
+None
+
+
+ No Return
+Increases base  Puncture damage
+
+Uncommon
+None
+
+
+ Pathogen Rounds
+Adds  Toxin damage to the weapon
+
+Uncommon
+None
+
+
+ Perpetual Agony
+Increases status duration
+
+Common
+None
+
+
+ Pistol Ammo Mutation
+Converts any unused ammo types collected into Pistol Ammo
+
+Rare
+None
+
+
+ Pistol Gambit
+Increases critical hit chance
+
+Common
+None
+
+
+ Pistol Pestilence
+Increases chance of causing status effectsAdds  Toxin damage to the weapon
+
+Rare
+None
+
+
+ Pressurized Magazine
+Increases rate of fire while aiming for a brief time upon reloading
+
+Rare
+Acolyte
+
+
+ Primed Expel Corpus
+Increases damage dealt to all Corpus units
+
+Legendary
+None
+
+
+ Primed Expel Corrupted
+Increases damage dealt to all Corrupted units
+
+Legendary
+None
+
+
+ Primed Expel Grineer
+Increases damage dealt to all Grineer units
+
+Legendary
+None
+
+
+ Primed Expel Infested
+Increases damage dealt to all Infested units
+
+Legendary
+None
+
+
+ Primed Heated Charge
+Adds  Fire damage to the weapon
+
+Legendary
+None
+
+
+ Primed Pistol Ammo Mutation
+Converts any unused ammo types collected into Pistol Ammo
+
+Legendary
+None
+
+
+ Primed Pistol Gambit
+Increases critical hit chance
+
+Legendary
+None
+
+
+ Primed Quickdraw
+Reduces reload time
+
+Legendary
+None
+
+
+ Primed Slip Magazine
+Increases magazine capacity
+
+Legendary
+None
+
+
+ Primed Target Cracker
+Increases critical hit damage
+
+Legendary
+None
+
+
+ Pummel
+Increases base  Impact damage
+
+Rare
+None
+
+
+ Quickdraw
+Reduces reload time
+
+Common
+None
+
+
+ Razor Munitions
+Converts a percentage of the weapon's damage into  Slash damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Razor Shot
+Increases base  Slash damage
+
+Uncommon
+None
+
+
+ Recuperate
+Adds Chance to Restore Health on KillExclusive to PvP
+
+Rare
+None
+
+
+ Reflex Draw
+Increases the holster rate
+
+Uncommon
+None
+
+
+ Ruinous Extension
+Increases the range of pistol beam weapons
+
+Uncommon
+None
+
+
+ Scorch
+Increases chance of causing status effectsAdds  Fire damage to the weapon
+
+Rare
+None
+
+
+ Secondary Wind
+Adds Health Regen for 8 seconds on KillExclusive to PvP
+
+Rare
+None
+
+
+ Seeker
+Adds object/enemy penetration to projectiles
+
+Rare
+None
+
+
+ Sharpened Bullets
+Increases critical hit damage while aiming for a brief time upon kill
+
+Uncommon
+Acolyte
+
+
+ Slip Magazine
+Increases magazine capacity
+
+Common
+None
+
+
+ Spry Sights
+Increases movement speed while aiming
+
+Uncommon
+None
+
+
+ Steady Hands
+Reduces recoil generated while firing
+
+Rare
+None
+
+
+ Strafing Slide
+Reduces recoil and spread while sliding
+
+Rare
+None
+
+
+ Stunning Speed
+Increases chance of causing status effectsReduces reload time
+
+Rare
+Nightmare
+
+
+ Suppress
+Reduces noise generated by firing
+
+Common
+None
+
+
+ Sure Shot
+Increases chance of causing status effects
+
+Uncommon
+None
+
+
+ Synth Charge
+Increases damage for the last shot in a magazine
+
+Rare
+Set Mod
+
+
+ Tainted Clip
+Increases magazine capacityReduces reload speed
+
+Rare
+Corrupted
+
+
+ Target Cracker
+Increases critical hit damage
+
+Uncommon
+None
+
+
+ Targeting Subsystem
+Increases accuracy while aiming for a brief time after hitting an enemy
+
+Uncommon
+Acolyte
+
+
+ Trick Mag
+Increases maximum ammunition capacity
+
+Common
+None
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+Subcategory
+
+
+ Amalgam Organ Shatter
+Increases critical hit damageIncreases charge attack speed
+
+Amalgam
+Amalgam
+
+
+ Auger Strike
+Increases  Puncture damage
+
+Rare
+None
+
+
+ Berserker
+ Temporarily increases attack speed after scoring a critical hit
+
+Rare
+None
+
+
+ Blood Rush
+Increases critical hit chance as the Melee Combo Counter increases
+
+Uncommon
+Acolyte
+
+
+ Body Count
+Increases Melee Combo Counter duration
+
+Common
+Acolyte
+
+
+ Buzz Kill
+Increases base  Slash damage
+
+Rare
+None
+
+
+ Collision Force
+Increases base  Impact damage
+
+Rare
+None
+
+
+ Condition Overload
+Grants extra melee damage for each Status Effect type affecting the target
+
+Rare
+None
+
+
+ Corrupt Charge
+Increases channeling damageReduces channeling efficiency
+
+Rare
+Corrupted
+
+
+ Counterweight
+Converts a percentage of the weapon's damage into  Impact damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Covert Lethality
+Increases base damage of single daggersFinishing attacks deal lethal damage
+
+Rare
+None
+
+
+ Dispatch Overdrive
+Grants a movement speed buff on a Melee Channel kill
+
+Uncommon
+None
+
+
+ Drifting Contact
+Increases Melee Combo Counter durationIncreases Status Chance
+
+Rare
+Nightmare
+
+
+ Enduring Affliction
+Grants extra Status Effect duration on melee hits while Channeling
+
+Uncommon
+None
+
+
+ Enduring Strike
+Increases Status ChanceReduces channeling efficiency
+
+Common
+None
+
+
+ Energy Channel
+Adds bonus melee damage based on Warframe ability energy usage
+
+Rare
+None
+
+
+ Explosive Demise
+Enemies killed with melee weapons explodeExclusive to PvP
+
+Rare
+None
+
+
+ Fever Strike
+Adds  Toxin damage to attacks
+
+Uncommon
+None
+
+
+ Finishing Touch
+Increases finishing attack damage
+
+Uncommon
+None
+
+
+ Focus Energy
+Increases channeling efficiencyAdds  Electricity damage to attacks
+
+Rare
+Nightmare
+
+
+ Focused Defense
+Increases Armor while channeling
+Reduces channeling efficiency
+
+
+Common
+Acolyte
+
+
+ Fury
+Increases attack speed
+
+Uncommon
+None
+
+
+ Gladiator Might
+Increases critical damage
+
+Uncommon
+Set Mod
+
+
+ Gladiator Rush
+Increases combo duration
+
+Common
+Set Mod
+
+
+ Gladiator Vice
+Increases attack speed
+
+Rare
+Set Mod
+
+
+ Guardian Derision
+Allows the player to taunt enemies into attacking them instead of allies when blocking
+
+Rare
+None
+
+
+ Healing Return
+Heals the player when hitting a target currently affected by a Status Effect proc
+
+Rare
+None
+
+
+ Heartseeker
+Melee attacks with daggers lock onto targetsDecreases blocking effectivenessExclusive to PvP
+
+Rare
+None
+
+
+ Heavy Trauma
+Increases base  Impact damage
+
+Rare
+None
+
+
+ Impenetrable Offense
+Increases blocking effectivenessDecreases base damageExclusive to PvP
+
+Rare
+None
+
+
+ Jagged Edge
+Increases base  Slash damage
+
+Rare
+None
+
+
+ Killing Blow
+Increases channeling damage
+
+Uncommon
+None
+
+
+ Lasting Sting
+Increases the duration of status effects
+
+Common
+None
+
+
+ Life Strike
+ Melee hits whilst channeling restore healthReduces channeling efficiency
+
+Rare
+None
+
+
+ Maiming Strike
+Increases critical hit chance on slide attacks
+
+Rare
+Acolyte
+
+
+ Martial Fury
+Increases attack speedDecreases energy regenExclusive to PvP
+
+Rare
+None
+
+
+ Melee Prowess
+Increases chance of causing status effects
+
+Common
+None
+
+
+ Molten Impact
+Adds  Heat damage to attacks
+
+Uncommon
+None
+
+
+ Mortal Conduct
+Increases channeled damage reflection at low healthExclusive to PvP
+
+Rare
+None
+
+
+ North Wind
+Adds  Cold damage to attacks
+
+Uncommon
+None
+
+
+ Organ Shatter
+Increases critical hit damage
+
+Common
+None
+
+
+ Parry
+ Grants a chance to knock down a melee attacker while Blocking
+
+Common
+None
+
+
+ Power Throw
+Adds object/enemy penetration to thrown weapons such as  Glaive,  Glaive Prime,  Halikar, and  Kestrel. Cannot be used on other weapons
+
+Rare
+None
+
+
+ Pressure Point
+Increases base damage
+
+Common
+None
+
+
+ Primed Fever Strike
+Adds  Toxin damage to attacks
+
+Legendary
+None
+
+
+ Primed Fury
+Increases attack speed
+
+Legendary
+None
+
+
+ Primed Heavy Trauma
+Increases base  Impact damage
+
+Legendary
+None
+
+
+ Primed Pressure Point
+Increases base damage
+
+Legendary
+None
+
+
+ Primed Reach
+Increases range/reach of melee attacks
+
+Legendary
+None
+
+
+ Quick Return
+Reduces the number of bounces for  Glaive,  Glaive Prime,  Halikar and  Kestrel
+
+Common
+None
+
+
+ Quickening
+Increases attack speedReduces channeling efficiency
+
+Rare
+None
+
+
+ Reach
+Increases range/reach of melee attacks
+
+Common
+None
+
+
+ Rebound
+Increases number of bounces for  Glaive,  Glaive Prime, and  Kestrel
+
+Common
+None
+
+
+ Reflex Coil
+Increases channeling efficiency
+
+Uncommon
+None
+
+
+ Relentless Assault
+Increases energy regen for a brief time upon killExclusive to PvP
+
+Rare
+None
+
+
+ Relentless Combination
+Grants a chance to deal Combo Counter hits when a target is dealt damage from a  Slash proc caused by the player
+
+Uncommon
+None
+
+
+ Rending Strike
+Increases base  Puncture and  Slash damage
+
+Rare
+Nightmare
+
+
+ Sacrificial Pressure
+Increases base damageIncreases damage dealt to all Sentient units
+
+Legendary
+Set Mod
+
+
+ Sacrificial Steel
+Increases critical hit chanceIncreases damage dealt to all Sentient units
+
+Legendary
+Set Mod
+
+
+ Seismic Wave
+Increases ground slam damage
+
+Uncommon
+None
+
+
+ Serrated Edges
+Converts a percentage of the weapon's damage into  Puncture damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Sharpened Blade
+Converts a percentage of the weapon's damage into  Slash damageExclusive to PvP
+
+Uncommon
+None
+
+
+ Shattering Impact
+ Impact damage from melee attacks reduces enemy armor
+
+Common
+None
+
+
+ Shocking Touch
+Adds  Electricity damage to attacks
+
+Uncommon
+None
+
+
+ Smite Corpus
+Increases damage dealt to all Corpus units
+
+Uncommon
+None
+
+
+ Smite Corrupted
+Increases damage dealt to all Corrupted units
+
+Uncommon
+None
+
+
+ Smite Grineer
+Increases damage dealt to all Grineer units
+
+Uncommon
+None
+
+
+ Smite Infested
+Increases damage dealt to all Infested units
+
+Uncommon
+None
+
+
+ Spoiled Strike
+Increases base damageReduces attack speed
+
+Rare
+Corrupted
+
+
+ Spring-Loaded Blade
+Increases range/reach of melee attacks for a short time upon proccing a status effect
+
+Rare
+None
+
+
+ Stand Ground
+Reduces damage taken from enemy abilities while blockingExclusive to PvP
+
+Rare
+None
+
+
+ Strain Infection
+Increases critical damage
+
+Rare
+Set Mod
+
+
+ Sundering Strike
+Increases base  Puncture damage
+
+Rare
+None
+
+
+ Sword Alone
+Increases mobilityExclusive to PvP
+
+Rare
+None
+
+
+ Tek Gravity
+Ground slam attacks pull in enemies
+
+Rare
+Set Mod
+
+
+ True Punishment
+Increases critical hit chanceReduces channeling efficiency
+
+Common
+None
+
+
+ True Steel
+Increases critical hit chance
+
+Common
+None
+
+
+ Vicious Frost
+Increases chance of causing status effectsAdds  Cold damage to attacks
+
+Rare
+None
+
+
+ Virulent Scourge
+Increases chance of causing status effectsAdds  Toxin damage to attacks
+
+Rare
+None
+
+
+ Volcanic Edge
+Increases chance of causing status effectsAdds  Heat damage to attacks
+
+Rare
+None
+
+
+ Voltaic Strike
+Increases chance of causing status effectsAdds  Electricity damage to attacks
+
+Rare
+None
+
+
+ Weeping Wounds
+Increases chance of causing status effects  as the Melee Combo Counter increases
+
+Uncommon
+Acolyte
+
+
+ Whirlwind
+Increases flight speed of  Glaive,  Glaive Prime,  Halikar, and  Kestrel
+
+Rare
+None
+
+
+
+
+Name
+Description
+Weapon Type
+Polarity
+Rarity
+
+
+ Argent Scourge
+Fighting form devised for ConclaveExclusive to PvP
+Polearms
+
+Uncommon
+
+
+ Astral Twilight
+Orbiting slashes and lashing strikes
+Glaives
+
+Rare
+
+
+ Atlantis Vulcan
+Rapid strikes, Deceptive movements
+Nunchaku
+
+Uncommon
+
+
+ Biting Piranha
+Fighting form devised for ConclaveExclusive to PvP
+Dual Daggers
+
+Uncommon
+
+
+ Bleeding Willow
+A blend of strong and rapid strikes with leaping combos
+Polearms
+ 
+Rare
+
+
+ Blind Justice
+Reverse grip style emphasizing slashing and impaling strikes
+Nikanas
+ 
+Uncommon
+
+
+ Brutal Tide
+ Round-house attacks and leaping fists
+Sparring
+ 
+Rare
+
+
+ Bullet Dance
+Sharpened blades dance with gunfire
+Gunblade
+ 
+Rare
+
+
+ Burning Wasp
+ Chaining combos
+Whips
+ 
+Uncommon
+
+
+ Carving Mantis
+Strong slashes and quick stabs that keeps momentum forward
+Dual Swords
+
+Rare
+
+
+ Celestial Nightfall
+Fighting form devised for ConclaveExclusive to PvP
+Glaives
+
+Uncommon
+
+
+ Clashing Forest
+ Arcing strikes and focused combos
+Staves
+ 
+Uncommon
+
+
+ Cleaving Whirlwind
+ Arcing cuts with spinning finish
+Heavy Blade
+ 
+Rare
+
+
+ Coiling Viper
+ Powerful arcing strikes with energetic flips
+Whips
+ 
+Rare
+
+
+ Crashing Havoc
+Fighting form devised for ConclaveExclusive to PvP
+Hammers
+
+Uncommon
+
+
+ Crashing Timber
+Fighting form devised for ConclaveExclusive to PvP
+Staves
+
+Uncommon
+
+
+ Crimson Dervish
+ Strong whirlwind attacks
+Swords
+ 
+Rare
+
+
+ Crossing Snakes
+ Multi-angle strikes and deadly thrust attacks
+Dual Swords
+ 
+Rare
+
+
+ Crushing Ruin
+ Arial attacks with crowd control combos
+Hammers
+ 
+Rare
+
+
+ Cunning Aspect
+Fighting form devised for ConclaveExclusive to PvP
+Rapiers
+
+Uncommon
+
+
+ Cyclone Kraken
+ Brutal strikes with deft movement
+Machetes
+ 
+Rare
+
+
+ Decisive Judgement
+ Fierce, double-handed strikes
+Nikanas
+ 
+Rare
+
+
+ Defiled Snapdragon
+ Sudden lashes, lethal slashes
+Blade and Whip
+ 
+Rare
+
+
+ Dividing Blades
+Fighting form devised for ConclaveExclusive to PvP
+Dual Swords
+
+Uncommon
+
+
+ Eleventh Storm
+ Rapid attacks
+Sword and Shield
+ 
+Uncommon
+
+
+ Fateful Truth
+Fighting form devised for ConclaveExclusive to PvP
+Nikanas
+
+Uncommon
+
+
+ Final Harbinger
+ Powerful slashes and shield attacks
+Sword And Shield
+ 
+Uncommon
+
+
+ Flailing Branch
+ Lifting Strikes and whirlwind combos
+Staves
+ 
+Rare
+
+
+ Four Riders
+ Fast strikes, powerful slams
+Claws
+ 
+Rare
+
+
+ Fracturing Wind
+ Fast attacks and high finishing attack damage
+Fists
+ 
+Uncommon
+
+
+ Gaia's Tragedy
+ Methodical blows thrown with great force
+Fists
+ 
+Rare
+
+
+ Gemini Cross
+ A style exhibiting sweeping slash attacks and swift jabs
+Tonfas
+ 
+Uncommon
+
+
+ Gleaming Talon
+ Fast arcing strikes
+Glaives
+ 
+Rare
+
+
+ Gnashing Payara
+ Lunging punctures with impaling spirals
+Dual Daggers
+ 
+Rare
+
+
+ Grim Fury
+ Lightning fast hit chains and hard hitting combos
+Sparring
+ 
+Uncommon
+
+
+ High Noon
+ Bullets spray between wicked slash attacks
+Gunblade
+ 
+Rare
+
+
+ Homing Fang
+ Fast strikes, many hits
+Daggers
+ 
+Uncommon
+
+
+ Iron Phoenix
+ Fast cutting attacks with punctures finish
+Swords
+ 
+Rare
+
+
+ Lashing Coil
+Fighting form devised for ConclaveExclusive to PvP
+Whips
+
+Uncommon
+
+
+ Last Herald
+Fighting form devised for ConclaveExclusive to PvP
+Sword and Shield
+
+Uncommon
+
+
+ Mafic Rain
+Fighting form devised for ConclaveExclusive to PvP
+Nunchaku
+
+Uncommon
+
+
+ Malicious Raptor
+ Puncturing strikes and quick slashes
+Claws
+ 
+Rare
+
+
+ Noble Cadence
+Fighting form devised for ConclaveExclusive to PvP
+Heavy Blade
+
+Uncommon
+
+
+ Piercing Fury
+Fighting form devised for ConclaveExclusive to PvP
+Daggers
+
+Uncommon
+
+
+ Pointed Wind
+ Spiral strikes, lifting combos
+Daggers
+ 
+Rare
+
+
+ Quaking Hand
+Fighting form devised for ConclaveExclusive to PvP
+Fists
+
+Uncommon
+
+
+ Reaping Spiral
+ Far flung attacks and multi-hit combos
+Scythes
+ 
+Uncommon
+
+
+ Rending Crane
+ Downward cuts with an impact combo
+Heavy Blade
+ 
+Uncommon
+
+
+ Rending Wind
+Fighting form devised for ConclaveExclusive to PvP
+Machetes
+
+Uncommon
+
+
+ Rising Steel
+Fighting form devised for ConclaveExclusive to PvP
+Swords
+
+Uncommon
+
+
+ Scarlet Hurricane
+Fighting form devised for ConclaveExclusive to PvP
+Claws
+
+Uncommon
+
+
+ Seismic Palm
+ Methodical strikes with reaching combos
+Fists
+ 
+Rare
+
+
+ Shadow Harvest
+Fighting form devised for ConclaveExclusive to PvP
+Scythes
+
+Uncommon
+
+
+ Shattering Storm
+ Methodical strikes and high impact combos
+Hammers
+ 
+Uncommon
+
+
+ Shimmering Blight
+Fast spinning attacks and staggering strikes
+Polearms
+
+Uncommon
+
+
+ Sinking Talon
+ Strong, focused attacks with multi-hit spins
+Dual Daggers
+ 
+Uncommon
+
+
+ Slicing Feathers
+Twirling, acrobatic slashes with a refined touch
+Warfans
+ 
+Rare
+
+
+ Sovereign Outcast
+Outlandish style with sweeping attacks
+Tonfas
+
+Rare
+
+
+ Spinning Needle
+ Swift Stabs, twisting slashes
+Dual Daggers
+ 
+Uncommon
+
+
+ Stalking Fan
+ Lunging spirals and shattering combos
+Scythes
+ 
+Rare
+
+
+ Star Divide
+Fighting form devised for ConclaveExclusive to PvP
+Tonfas
+
+Uncommon
+
+
+ Stinging Thorn
+ Vigorous slashes with forceful stabs
+Daggers
+ 
+Rare
+
+
+ Sundering Weave
+ Steady chopping strikes with focused damage
+Machetes
+ 
+Uncommon
+
+
+ Swirling Tiger
+ Fanning, multi-hit strikes
+Dual Swords
+ 
+Uncommon
+
+
+ Swooping Falcon
+Quick slashes with spinning lunges
+Swords
+
+Rare
+
+
+ Tainted Hydra
+Fighting form devised for ConclaveExclusive to PvP
+Blade and Whip
+
+Uncommon
+
+
+ Tempo Royale
+Sweeping strikes and twisting slashes
+Heavy Blade
+
+Rare
+
+
+ Tranquil Cleave
+ Powerful arcs with frenzied combo
+Nikanas
+ 
+Rare
+
+
+ Twirling Spire
+Mix of sweeping attacks with precise strikes
+Polearms
+
+Rare
+
+
+ Vengeful Revenant
+ Hate Dread Despair
+Swords
+ 
+Rare
+
+
+ Vermillion Storm
+ Kicks woven between spinning slashes
+Claws
+ 
+Rare
+
+
+ Vicious Approach
+Fighting form devised for ConclaveExclusive to PvP
+Sparring
+
+Uncommon
+
+
+ Vulpine Mask
+ Swift cuts, lancing strikes
+Rapiers
+ 
+Rare
+
+
+
+
+
+
+View Companion Mod List▾▾
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Animal Instinct
+The Companion detects the location of nearby enemies and loot for the player
+
+Rare
+
+
+ Calculated Redirection
+Increases maximum shield of the Companion
+
+Common
+
+
+ Enhanced Vitality
+Increases maximum health of the Companion
+
+Common
+
+
+ Link Armor
+Shares maximum armor of the player's Warframe with the CompanionCan't be equipped on Sentinels
+
+Uncommon
+
+
+ Link Health
+Shares maximum health of the player's Warframe with the CompanionCan't be equipped on Sentinels
+
+Uncommon
+
+
+ Link Shields
+Shares maximum shields of the player's Warframe with the CompanionCan't be equipped on Sentinels
+
+Uncommon
+
+
+ Loyal Companion
+Shares maximum bleedout rate of the player's Warframe with the CompanionCan't be equipped on Sentinels
+
+Common
+
+
+ Medi-Pet Kit
+Increases Health Regen and Bleedout TimeCan't be equipped on Sentinels
+
+Rare
+
+
+ Metal Fiber
+Increases armor of the Companion
+
+Common
+
+
+ Pack Leader
+Restores Companion health as player deals damage with melee weaponsCan't be equipped on Sentinels
+
+Common
+
+
+ Primed Animal Instinct
+The Companion detects the location of nearby enemies and loot for the player
+
+Legendary
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Coolant Leak
+The Companion generates a small freeze aura which slows incoming enemies
+
+Rare
+
+
+ Guardian
+The Companion automatically restores some of its owner's shields when they are reduced to zero
+
+Common
+
+
+ Medi-Ray
+The Companion periodically restores a percentage of its owner's health
+
+Uncommon
+
+
+ Sanctuary
+The Companion provides a shield when its owner is reviving an ally
+
+Rare
+
+
+ Shield Charger
+The Companion periodically increases nearby Warframes' max shields and shield regen
+
+Rare
+
+
+ Vacuum
+The Companion collects Pickups, Ammo, and Mods within the area
+
+Common
+
+
+
+
+Name
+Description
+Sentinel
+Polarity
+Rarity
+
+
+ Accelerated Deflection
+Increases shield recharge rate of the Sentinel
+Any
+
+Uncommon
+
+
+ Ambush
+The Sentinel buffs its owner's weapon damage after breaking invisibility granted by Ghost
+Shade
+
+Rare
+
+
+ Ammo Case
+Mutates ammo to the ammo type your equipped weapon is usingIncreases ammo capacity
+Carrier
+
+Common
+
+
+ Arc Coil
+Sentinel will zap multiple enemies within range
+Diriga
+
+Common
+
+
+ Assault Mode
+The Sentinel will attack the first visible enemy in range
+Any
+
+Common
+
+
+ Calculated Shot
+Sentinel charges a powerful shot and fires at first enemy in sight
+Diriga
+
+Common
+
+
+ Crowd Dispersion
+The Sentinel unleashes a radial stun and knockdown when targets get close
+Wyrm
+
+Common
+
+
+ Detect Vulnerability
+The Sentinel marks damage multiplying weakspots on enemies with completed codex entries
+Helios
+
+Rare
+
+
+ Electro Pulse
+Sentinel continually zaps a nearby enemy, trapping them in a stunned state
+Diriga
+
+Common
+
+
+ Energy Generator
+The Sentinel will drop an energy orb after assisting in kills
+Dethcube
+
+Rare
+
+
+ Fatal Attraction
+The Sentinel pulls enemies towards the user
+Djinn
+
+Common
+
+
+ Fired Up
+Increases weapon damage of Sentinel in recurrent attacks
+Any
+
+Rare
+
+
+ Ghost
+The Sentinel cloaks its owner when enemies are close
+Shade
+
+Common
+
+
+ Investigator
+The Sentinel will automatically scan enemies and objects to add to the Codex
+Helios
+
+Common
+
+
+ Looter
+The Sentinel will break nearby containers by releasing a wave of energy that destroys all breakable Storage Containers within 12 meters at max rank.
+Carrier
+
+Rare
+
+
+ Molecular Conversion
+The Sentinel will attack enemies within range and convert the damage into Shields for the Warframe
+Taxon
+
+Common
+
+
+ Negate
+Sentinel prevents Status Effects from applying to its owner once every 15s
+Wyrm
+
+Rare
+
+
+ Primed Regen
+The Sentinel regenerates up to three times with full health if killed, and is granted an invulnerability period per each mod rank
+Any
+
+Legendary
+
+
+ Reawaken
+The Sentinel will automatically revive itself after a short period when killed
+Djinn
+
+Rare
+
+
+ Regen
+The Sentinel regenerates once if killed with full health, and is granted an invulnerability period per each mod rank
+Any
+
+Common
+
+
+ Repair Kit
+Increases Heal Rate (Health Regen) of the Sentinel
+Any
+
+Common
+
+
+ Revenge
+The Sentinel will attack the enemy which attacked its owner
+Shade
+
+Common
+
+
+ Sacrifice
+The Sentinel will revive its owner at the cost of its own life
+Any
+
+Rare
+
+
+ Scan Aquatic Lifeforms
+The Sentinel shows Fishing Hotspots and applies Luminos Dye on nearby fish
+Oxylus
+
+Common
+
+
+ Scan Matter
+The Sentinel periodically shows resource containers on the mini-map
+Oxylus
+
+Common
+
+
+ Self Destruct
+The Sentinel explodes upon death, dealing Blast damage to nearby enemies
+Any
+
+Rare
+
+
+ Spare Parts
+The Sentinel has a chance to drop a rare material upon death
+Any
+
+Uncommon
+
+
+ Synth Deconstruct
+Enemies damaged by the Sentinel drop a health orb upon death
+Any
+
+Rare
+
+
+ Synth Fiber
+Health orbs increase the Sentinel's armor for a limited time
+Any
+
+Rare
+
+
+ Targeting Receptor
+The Sentinel will attack the first visible enemy in range
+Helios
+
+Common
+
+
+ Thumper
+The Sentinel will attack the first visible enemy in range
+Djinn
+
+Common
+
+
+ Vaporize
+The Sentinel will fire a powerful beam at close enemies, dealing high damage and stunning those that survive
+Dethcube
+
+Common
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Anti-Grav Grenade
+The MOA fires a grenade that reverses gravity in an area, inflicting  Impact damage to targets and causing them to float upwards.
+
+Common
+
+
+ Security Override
+The MOA will hack consoles with a chance to mind-control robotic enemies within 30m after a successful hack.
+
+Common
+
+
+ Shockwave Actuators
+The MOA will perform a Shockwave Stomp similar to the Shockwave MOA, which will knock down enemies.
+
+Common
+
+
+ Stasis Field
+The MOA creates a field around itself that slows projectiles that pass through it and decreases their damage.
+
+Common
+
+
+ Tractor Beam
+The MOA increases Warframe aim glide duration and reduces the effects of gravity whilst aim gliding.
+
+Common
+
+
+ Whiplash Mine
+The MOA deploys a mine that tethers all enemies in range. After 3s, all enemies still in range get pulled to the mine.
+
+Common
+
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Bite
+Increases Critical Chance and Critical Damage
+
+Rare
+
+
+ Fetch
+The Companion collects Pickups, Ammo, and Mods within the area
+
+Uncommon
+
+
+ Flame Gland
+Increases chance of causing status effectsAdds  Heat damage to attacks
+
+Rare
+
+
+ Frost Jaw
+Increases chance of causing status effectsAdds  Cold damage to attacks
+
+Rare
+
+
+ Hastened Deflection
+Increases shield recharge rate
+
+Uncommon
+
+
+ Hunter Command
+The Companion attacks the nearest enemy affected by  Slash Status
+
+Rare
+
+
+ Hunter Recovery
+Restores player health as the Companion deals damage
+
+Common
+
+
+ Hunter Synergy
+Increases Companion's Critical Chance  based on the Critical Chance of the player's primary weapon
+
+Uncommon
+
+
+ Maul
+Increases melee damage
+
+Uncommon
+
+
+ Scavenge
+The Companion has a chance to open nearby lockers
+
+Common
+
+
+ Shelter
+The Companion provides a shield when its owner is reviving an ally
+
+Uncommon
+
+
+ Shock Collar
+Increases chance of causing status effectsAdds  Electricity damage to attacks
+
+Rare
+
+
+ Venom Teeth
+Increases chance of causing status effectsAdds  Toxin damage to attacks
+
+Rare
+
+
+
+
+Name
+Description
+Kubrow
+Polarity
+Rarity
+
+
+ Dig
+The Kubrow digs up ammunition and health orbs
+Sahasa
+
+Rare
+
+
+ Ferocity
+Enables finisher attacks and increases finisher damage of the Kubrow
+Sahasa
+
+Rare
+
+
+ Howl
+The Kubrow strikes fear into enemies
+Raksa
+
+Rare
+
+
+ Hunt
+The Kubrow tackles opponents
+Huras
+
+Rare
+
+
+ Mecha Overdrive
+Increases Kubrow status chance based on the total status chance of the player's primary weaponIncreases Kubrow status duration
+Any
+
+Rare
+
+
+ Mecha Recharge
+Increases Kubrow shield recharge rate
+Any
+
+Rare
+
+
+ Neutralize
+Bites the hand of an enemy causing them to drop their weapon
+Chesa
+
+Rare
+
+
+ Proboscis
+Allows the Helminth to grapple and drag enemies
+Helminth
+
+Rare
+
+
+ Protect
+The Kubrow automatically restores some of its owner's shields when they are not at full capacity
+Raksa
+
+Rare
+
+
+ Retrieve
+The Kubrow sniffs out loot hidden in crates and dropped by enemies retrieving these items for its master
+Chesa
+
+Common
+
+
+ Savagery
+ Enables finisher attacks and increases finisher damage of the Kubrow
+Sunika
+
+Rare
+
+
+ Stalk
+The Kubrow cloaks its owner when enemies are close
+Huras
+
+Rare
+
+
+ Strain Eruption
+Maggots spawned by the Helminth explode on death dealing  Corrosive damage based on a percentage of an enemy's health
+Helminth
+
+Rare
+
+
+ Strain Fever
+Increases the damage of the Helminth per Cyst
+Helminth
+
+Rare
+
+
+ Trample
+Allows the Helminth to tackle an enemy
+Helminth
+
+Rare
+
+
+ Unleashed
+The Kubrow grapples VIP targets
+Sunika
+
+Rare
+
+
+
+
+Name
+Description
+Kavat
+Polarity
+Rarity
+
+
+ Cat's Eye
+Increase Critical Chance
+Adarza
+
+Rare
+
+
+ Charm
+Grant a random buff to its owner, indicated by a special icon next to its owner's health and shields
+Smeeta
+
+Rare
+
+
+ Mischief
+The Kavat becomes invisible while a decoy Kavat draws fire
+Smeeta
+
+Rare
+
+
+ Pounce
+The Kavat pounces at an enemy, stunning them for a short duration.
+Any
+
+Uncommon
+
+
+ Reflect
+The Kavat has a chance to reflect damage back to an enemy, amplifying it by 60%
+Adarza
+
+Rare
+
+
+ Sense Danger
+The Kavat emits a sonar wave that marks enemies on the mini map as well as making them glow
+Any
+
+Uncommon
+
+
+ Sharpened Claws
+The Kavat targets an enemy and rips it apart
+Any
+
+Uncommon
+
+
+ Swipe
+Increases attack range
+Any
+
+Uncommon
+
+
+ Tek Assault
+The Kavat has a chance to ignore lethal damage and become immune for a short duration
+Any
+
+Rare
+
+
+ Tek Enhance
+Increases Kavat ability duration
+Any
+
+Rare
+
+
+ Territorial Aggression
+The Kavat pacifies nearby wild creatures
+Any
+
+Uncommon
+
+
+
+
+
+View Archwing Mod List▾▾
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Afterburner
+Elytron Augment Mod for Core Vent
+
+Rare
+
+
+ Argon Plating
+Increases Armor
+
+Common
+
+
+ Auxiliary Power
+Increases  Maximum Energy
+
+Uncommon
+
+
+ Cold Snap
+Itzal Augment Mod for Cosmic Crush
+
+Rare
+
+
+ Efficient Transferral
+Increases  Power Duration
+
+Rare
+
+
+ Energy Amplifier
+Increases  Power Range
+
+Uncommon
+
+
+ Energy Field
+Odonata Augment Mod for Energy Shell
+
+Rare
+
+
+ Energy Inversion
+Increases  Shield Capacity
+
+Common
+
+
+ Enhanced Durability
+Increases  Health
+
+Uncommon
+
+
+ Hyperion Thrusters
+Increases  Flight Speed
+
+Rare
+
+
+ Kinetic Diversion
+Damage to health restores Archwing energy
+
+Rare
+
+
+ Morphic Transformer
+Increases  Power Strength
+
+Rare
+
+
+ Primed Morphic Transformer
+Increases  Power Strength
+
+Legendary
+
+
+ Superior Defenses
+Increases  Shield Recharge Rate
+
+Uncommon
+
+
+ System Reroute
+Increases  Power Efficiency
+
+Rare
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Ammo Chain
+Increases Maximum Ammo
+
+Uncommon
+
+
+ Archgun Ace
+Increases Fire Rate and Reload Speed for a brief time upon a headshot kill
+
+Rare
+
+
+ Automatic Trigger
+Increases Fire Rate
+
+Rare
+
+
+ Charged Bullets
+Increases  Electric Damage and Status Chance
+
+Rare
+
+
+ Combustion Rounds
+Adds  Heat Damage
+
+Uncommon
+
+
+ Comet Blast
+Adds  Impact Damage
+
+Rare
+
+
+ Contamination Casing
+Increases  Toxin Damage and Status Chance
+
+Rare
+
+
+ Critical Focus
+Increases Critical Chance and Critical Damage while aiming
+
+Rare
+
+
+ Deadly Efficiency
+Increases Base Damage for a brief time upon reloading from an empty magazine
+
+Rare
+
+
+ Dual Rounds
+Adds Multishot Chance
+
+Rare
+
+
+ Electrified Barrel
+Adds  Electric Damage
+
+Uncommon
+
+
+ Hollowed Bullets
+Increases Critical Damage
+
+Rare
+
+
+ Hypothermic Shell
+Increases  Cold Damage and Status Chance
+
+Rare
+
+
+ Magazine Extension
+Increases Magazine Capacity
+
+Common
+
+
+ Magma Chamber
+Increases  Heat Damage and Status Chance
+
+Rare
+
+
+ Marked Target
+Increases Status Chance while aiming
+
+Rare
+
+
+ Modified Munitions
+Increases Status Chance
+
+Uncommon
+
+
+ Parallax Scope
+Increases Critical Chance
+
+Common
+
+
+ Polar Magazine
+Adds  Cold Damage
+
+Uncommon
+
+
+ Quasar Drill
+Adds  Puncture Damage
+
+Rare
+
+
+ Quick Reload
+Increases Reload Speed
+
+Uncommon
+
+
+ Resolute Focus
+Increases Stagger/Knockdown Resistance and Reduces Spread while aiming
+
+Uncommon
+
+
+ Rubedo-Lined Barrel
+Adds Base Damage
+
+Uncommon
+
+
+ Sabot Rounds
+Increases Base DamageIncreases Punch Through
+
+Rare
+
+
+ Shell Rush
+Increases Charge Rate
+
+Uncommon
+
+
+ Venomous Clip
+Adds  Toxin Damage
+
+Uncommon
+
+
+ Zodiac Shred
+Adds  Slash Damage
+
+Rare
+
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Astral Autopsy
+Melee Kill Scans
+
+Rare
+
+
+ Astral Slash
+Increases Base  Slash Damage
+
+Rare
+
+
+ Blazing Steel
+Adds  Heat Damage
+
+Uncommon
+
+
+ Bleeding Edge
+Increases  Critical Damage
+
+Common
+
+
+ Cryo Coating
+Increases  Cold Damage and Status Chance
+
+Rare
+
+
+ Cutting Edge
+Increases  Melee Damage
+
+Common
+
+
+ Extend
+Increases  Range
+
+Common
+
+
+ Furor
+Increases Attack Speed
+
+Uncommon
+
+
+ Galvanized Blade
+Adds  Electric Damage
+
+Uncommon
+
+
+ Glacial Edge
+Adds  Cold Damage
+
+Uncommon
+
+
+ Infectious Injection
+Increases  Toxin Damage and Status Chance
+
+Rare
+
+
+ Ion Infusion
+Increases  Electric Damage and Status Chance
+
+Rare
+
+
+ Meteor Crash
+Increases Base  Impact Damage
+
+Rare
+
+
+ Nebula Bore
+Increases Base  Puncture Damage
+
+Rare
+
+
+ Poisonous Sting
+Adds   Toxin Damage
+
+Uncommon
+
+
+ Searing Steel
+Increases  Heat Damage and Status Chance
+
+Rare
+
+
+ Sudden Impact
+Increases Status Chance
+
+Common
+
+
+ Tempered Blade
+Increases Critical Chance
+
+Common
+
+
+
+
+
+View K-Drive Mod List▾▾
+
+
+
+Name
+Description
+Polarity
+Rarity
+
+
+ Air Time
+Reduces Gravity While Falling Down
+
+Common
+
+
+ Cold Arrival
+Dismounting deals X Cold Damage
+
+Uncommon
+
+
+ Extreme Velocity
+Increases K-Drive Speed
+
+Rare
+
+
+ Inertia Dampeners
+Increases Trick Point Multiplier
+
+Uncommon
+
+
+ Kinetic Friction
+Grinding builds up electrical damage
+
+Uncommon
+
+
+ Mad Stack
+Increases +X% velocity when falling.
+
+Uncommon
+
+
+ Mag Locks
+Increases Grind Magnetism
+
+Common
+
+
+ Nitro Boost
+Increases K-Drive Boost Speed
+
+Rare
+
+
+ Perfect Balance
+Increases +X% Chance to resist falls.
+
+Uncommon
+
+
+ Pop Top
+Reduces -﻿X% Jump Charge Time.﻿
+
+Uncommon
+
+
+ Poppin' Vert
+Increases +﻿X% K-Drive Double Jump Heig﻿ht﻿
+
+Rare
+
+
+ Quick Escape
+Gain invulnerability for Xs mounting a K-Drive, but will expire early upon dismounting.
+
+Rare
+
+
+ Rail Guards
+Increases Grind Speed
+
+Common
+
+
+ Slay Board
+Launches Board on dismount
+
+Uncommon
+
+
+ Sonic Boost
+Releases a Shockwave stunning enemies
+
+Rare
+
+
+ Thrash Landing
+Deals damage after landing a trick
+
+Rare
+
+
+ Trail Blazer
+Leaves a trail dealing heat damage 
+
+Common
+
+
+ Venerdo Hoverdrive
+Increases K-Drive jump height
+
+Uncommon
+
+
+
+
+
+View Syndicate Offering Mod List▾▾
+
+
+
+
+ Syndicate • Standing • Warframe Augments
+
+
+
+
+
+ Ash
+  Seeking Shuriken •  Smoke Shadow •  Fatal Teleport •  Rising Storm
+
+
+ Atlas
+  Path of Statues •  Tectonic Fracture •  Ore Gaze •  Titanic Rumbler
+
+
+ Banshee
+  Sonic Fracture •  Resonance •  Savage Silence •  Resonating Quake
+
+
+ Chroma
+  Afterburn •  Everlasting Ward •  Vexing Retaliation •  Guided Effigy
+
+
+ Ember
+  Fireball Frenzy •  Flash Accelerant •  Fire Fright •  Firequake
+
+
+ Equinox
+  Duality •  Calm & Frenzy •  Peaceful Provocation •  Energy Transfer
+
+
+ Excalibur
+  Surging Dash •  Radiant Finish •  Furious Javelin •  Chromatic Blade
+
+
+ Frost
+  Freeze Force •  Ice Wave Impedance •  Chilling Globe •  Icy Avalanche
+
+
+ Gara
+  Mending Splinters •  Spectrosiphon
+
+
+ Garuda
+  Dread Ward
+
+
+ Harrow
+  Warding Thurible •  Lasting Covenant
+
+
+ Hydroid
+  Corroding Barrage •  Tidal Impunity •  Curative Undertow •  Pilfering Swarm
+
+
+ Inaros
+  Desiccation's Curse •  Elemental Sandstorm •  Negation Swarm
+
+
+ Ivara
+  Empowered Quiver •  Piercing Navigator •  Infiltrate •  Concentrated Arrow
+
+
+ Khora
+  Accumulating Whipclaw •  Venari Bodyguard •  Pilfering Strangledome
+
+
+ Limbo
+  Rift Haven •  Rift Torrent •  Cataclysmic Continuum
+
+
+ Loki
+  Savior Decoy •  Hushed Invisibility •  Safeguard Switch •  Irradiating Disarm
+
+
+ Mag
+  Greedy Pull •  Magnetized Discharge •  Counter Pulse •  Fracturing Crush
+
+
+ Mesa
+  Ballistic Bullseye •  Muzzle Flash •  Staggering Shield •  Mesa's Waltz
+
+
+ Mirage
+  Hall of Malevolence •  Explosive Legerdemain •  Total Eclipse
+
+
+ Nekros
+  Soul Survivor •  Creeping Terrify •  Despoil •  Shield of Shadows
+
+
+ Nezha
+  Pyroclastic Flow •  Reaping Chakram •  Safeguard
+
+
+ Nidus
+  Teeming Virulence •  Larva Burst •  Insatiable
+
+
+ Nova
+  Neutron Star •  Antimatter Absorb •  Escape Velocity •  Molecular Fission
+
+
+ Nyx
+  Mind Freak •  Pacifying Bolts •  Chaos Sphere •  Assimilate
+
+
+ Oberon
+  Smite Infusion •  Hallowed Eruption •  Phoenix Renewal •  Hallowed Reckoning
+
+
+ Octavia
+  Partitioned Mallet •  Conductor
+
+
+ Revenant
+  Blinding Reave
+
+
+ Rhino
+  Ironclad Charge •  Iron Shrapnel •  Piercing Roar •  Reinforcing Stomp
+
+
+ Saryn
+  Venom Dose •  Regenerative Molt •  Contagion Cloud
+
+
+ Titania
+  Beguiling Lantern •  Razorwing Blitz
+
+
+ Trinity
+  Pool of Life •  Vampire Leech •  Abating Link
+
+
+ Valkyr
+  Swing Line •  Eternal War •  Prolonged Paralysis •  Hysterical Assault
+
+
+ Vauban
+  Tesla Link •  Repelling Bastille •  Perpetual Vortex
+
+
+ Volt
+  Shock Trooper •  Shocking Speed •  Transistor Shield •  Capacitance
+
+
+ Wukong
+  Celestial Stomp •  Enveloping Cloud •  Primal Rage
+
+
+ Zephyr
+  Target Fixation •  Jet Stream •  Funnel Clouds
+
+
+
+
+ Ash
+  Tear Gas
+
+
+ Atlas
+  Rumbled
+
+
+ Chroma
+  Afterburn
+
+
+ Ember
+  Purifying Flames
+
+
+ Equinox
+  Push & Pull
+
+
+ Excalibur
+  Purging Slash •  Signal Flare
+
+
+ Frost
+  Ice Wave Impedance
+
+
+ Ivara
+  Power of Three
+
+
+ Loki
+  Deceptive Bond
+
+
+ Mag
+  Sapping Reach •  Shield Overload
+
+
+ Mesa
+  Mesa's Waltz
+
+
+ Mirage
+  Prism Guard
+
+
+ Nekros
+  Discharge Strike
+
+
+ Nezha
+  Ward Recovery
+
+
+ Nova
+  Antimatter Mine
+
+
+ Nyx
+  Singularity
+
+
+ Oberon
+  Defiled Reckoning
+
+
+ Rhino
+  Iron Shrapnel
+
+
+ Valkyr
+  Hysterical Fixation
+
+
+ Volt
+  Recharge Barrier •  Kinetic Collision
+
+
+
+
+
+
+ Weapon Augments
+
+
+ Syndicate Augments
+
+
+ Red Veil
+  Eroding Blight •  Gleaming Blight •  Toxic Blight •  Stockpiled Blight
+
+
+ Cephalon Suda
+  Entropy Burst •  Entropy Flight •  Entropy Spike •  Entropy Detonation
+
+
+ Steel Meridian
+  Justice Blades •  Scattered Justice •  Shattering Justice •  Neutralizing Justice
+
+
+ New Loka
+  Bright Purity •  Lasting Purity •   Winds of Purity •  Disarming Purity
+
+
+ The Perrin Sequence
+  Deadly Sequence •  Sequence Burn •  Toxic Sequence •  Voltage Sequence
+
+
+ Arbiters of Hexis
+  Blade of Truth •  Gilded Truth •  Stinging Truth •  Avenging Truth
+
+
+ Arena Augments
+
+
+ The Index
+  Tether Grenades •  Flux Overdrive •  Thermagnetic Shells •  Static Discharge •  Kinetic Ricochet
+
+
+ Kela De Thaym
+  Electromagnetic Shielding •  Vulcan Blitz •  Acid Shells •  Rift Strike •  Nightwatch Napalm •  Fomorian Accelerant •  Hunter's Bonesaw •  Harkonar Scope •  Medi-Ray
+
+
+ Nightwave Augments
+
+
+ Series 1
+  Bursting Mass •  Napalm Grenades •  Wild Frenzy
+
+
+ Series 2
+  Efficient Beams •  Exposing Harpoon •  Meticulous Aim
+
+
+ Amalgam Augments
+
+
+  Amalgam Argonak Metal Auger •  Amalgam Daikyu Target Acquired •  Amalgam Furax Body Count •  Amalgam Javlok Magazine Warp •  Amalgam Ripkas True Steel
+
+
+
+
+
+View Conclave Mod List▾▾
+
+
+
+ Conclave • PvP • Teshin
+
+
+
+
+
+ Augments
+  Afterburn •  Antimatter Mine •  Deceptive Bond •  Defiled Reckoning •  Discharge Strike •  Hysterical Fixation •  Ice Wave Impedance •  Iron Shrapnel •  Kinetic Collision •  Mesa's Waltz •  Power of Three •  Prism Guard •  Purging Slash •  Purifying Flames •  Push & Pull •  Recharge Barrier •  Rumbled •  Sapping Reach •  Shield Overload •  Signal Flare •  Singularity •  Tear Gas •  Ward Recovery
+
+
+ Utility
+  Adept Surge •  Adrenaline Boost •  Air Thrusters •  Anticipation •  Anti-Flak Plating •  Armored Acrobatics •  Armored Evade •  Armored Recovery •  Calculated Spring •  Final Act •  Follow Through •  Hastened Steps •  Heightened Reflexes •  No Current Leap •  Overcharge Detectors •  Overcharged •  Quick Charge •  Rising Skill •  Surplus Diverters •  Tactical Retreat •  Tempered Bound •  Vital Systems Bypass
+
+
+ Cosmetic
+  Searing Leap •  Rime Vault •  Venomous Rise •  Voltaic Lance
+
+
+
+
+
+ Augments
+  Ambush Optics •  Brain Storm •  Directed Convergence •  Double Tap •  Draining Gloom •  Final Tap •  Focused Acceleration •  Gorgon Frenzy •  Grinloked •  Measured Burst •  Precision Munition •  Shrapnel Rounds •  Skull Shots •  Spring-Loaded Broadhead •  Static Alacrity •  Sudden Justice •  Thundermiter •  Triple Tap
+
+
+ Rifle
+  Agile Aim •  Apex Predator •  Comet Rounds •  Deft Tempo •  Gun Glide •  Hydraulic Gauge •  Loose Hatch •  Lucky Shot •  Maximum Capacity •  Overview •  Recover •  Ripper Rounds •  Serrated Rounds •  Tactical Reload •  Twitch •  Vanquished Prey
+
+
+ Shotgun
+  Bounty Hunter •  Broad Eye •  Crash Shot •  Double-Barrel Drift •  Flak Shot •  Hydraulic Chamber •  Kill Switch •  Loaded Capacity •  Lock and Load •  Loose Chamber •  Momentary Pause •  Prize Kill •  Shred Shot •  Snap Shot •  Soft Hands
+
+
+ Sniper
+  Emergent Aftermath •  Lie In Wait
+
+
+ Bow
+  Feathered Arrows •  Plan B •  Soaring Strike
+
+
+ Pistol
+  Air Recon •  Blind Shot •  Calculated Victory •  Eject Magazine •  Full Capacity •  Heavy Warhead •  Hydraulic Barrel •  Impaler Munitions •  Loose Magazine •  Meteor Munitions •  Night Stalker •  Razor Munitions •  Recuperate •  Reflex Draw •  Secondary Wind •  Spry Sights •  Strafing Slide
+
+
+ Melee
+  Counterweight •  Explosive Demise •  Heartseeker •  Impenetrable Offense •  Martial Fury •  Mortal Conduct •  Relentless Assault •  Serrated Edges •  Sharpened Blade •  Stand Ground •  Sword Alone
+
+
+ Stances
+  Argent Scourge •  Biting Piranha •  Celestial Nightfall •  Crashing Havoc •  Crashing Timber •  Cunning Aspect •  Dividing Blades •  Fateful Truth •  Lashing Coil •  Last Herald •  Mafic Rain •  Noble Cadence •  Piercing Fury •  Quaking Hand •  Rending Wind •  Rising Steel •  Scarlet Hurricane •  Shadow Harvest •  Star Divide •  Tainted Hydra •  Vicious Approach
+
+
+ Archived
+Martial Magnetism • Tracking Shot
+
+
+
+
+NotesEdit
+Mods dropped on the ground will display a visual effect where white specks of energy converge on its position, making the mod more visible. If two or more players are in a mission, this visual effect will remain in place as long as any player has not collected the mod, and will only disappear if all players have picked up the mod. The visual effect itself can be marked using a waypoint to inform other players where the mod is, even if the player placing the waypoint has already picked up the mod. Waypointing a mod will also display its name even if a player hasn't picked it up.
+Rare mods project a stronger, yellow-gold effect with a clear column of golden energy projecting into the air. Similarly, the orbs for components and blueprints dropped by special enemies create a distinctive purple energy column. Mods dropped by enemies in Rathuum and The Index display a projection of red energy.
+
+
+TriviaEdit
+Some older mods still use legacy images that no longer apply to the current build of the game, usually with enemies using weapons that they no longer use, or they are used by an enemy that no longer wields that weapon. 
+This includes Point Blank and Hell's Chamber where a Lancer is using a Braton; Corrosive Projection where a Shield Lancer is using a Sicarus and so on. (feel free to list more)
+Another instance is a mod like Antitoxin which still includes the image of a legacy version Toxic Ancient, back when Infested Ancients used to be large mutated Crewmen instead. 
+
+
+MediaEdit
+Warframe Deconstructed- Ep.2- ModsJSSnippetsStack.push({dependencies:[{"url":"https://slot1-images.wikia.nocookie.net/__am/1567448848263/group/-/wikia_photo_gallery_js","type":"js"},{"url":"https://slot1-images.wikia.nocookie.net/__am/1567448848263/sass/background-dynamic%3Dfalse%26background-image%3Dhttps%253A%252F%252Fvignette.wikia.nocookie.net%252Fwarframe%252Fimages%252F5%252F50%252FWiki-background%252Frevision%252Flatest%253Fcb%253D20190402071843%26background-image-height%3D1213%26background-image-width%3D1920%26color-body%3D%2523ffffff%26color-body-middle%3D%2523ffffff%26color-buttons%3D%2523424242%26color-community-header%3D%2523061212%26color-header%3D%2523808080%26color-links%3D%25230148c2%26color-page%3D%2523eeeeee%26oasisTypography%3D1%26page-opacity%3D88%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})
+Patch HistoryEdit
+Update 25.7
+Mod descriptions are now included when searching in the Mod Trading screen (ie searching Toxin will display Fever Strike, etc).
+
+Hotfix 25.6.2
+
+Searching for combined elements (Radiation, Magnetic, etc.) in your Upgrade and Mod menus will now pull up the base element mods that can be combined to make that element!
+
+Hotfix 25.5.1
+
+Fixed an issue where you could install duplicate Mods in loadouts using an exploit. 
+
+Update 23.10
+
+Introduced ‘BEAST’ category for Kubrows, Kavats (instead of COMPANIONS) and the Helminth Charger, and added ‘ROBOTIC’ category for Sentinels. Remaining Mods that indicate ‘COMPANION’ are useable across all Companion types.
+
+Update: Specters of the Rail
+
+Archwing augment mods now display an "ARCHWING" tag to help differentiate them.
+Removed Conclave rating.
+
+Update 18.12
+
+Warframe Mod text descriptions are receiving a visual overhaul! All Mod descriptions are being manually audited by our team to reflect appropriate status icons and uniform text case. Our goal is to bring consistency to all Mods, and so far almost every Mod has been updated to this format! We ask that you be patient with this change as we comb through Warframe’s extensive Mod collection. This change is purely visual to reduce overly verbose descriptions and discrepancy, and does not affect the functionality of these Mods in any way.
+
+Hotfix 15.1.3
+
+Improved performance and stability of long missions by setting a cap on active Mods in a session. 50 mods can now exist simultaneously before new mods will replace the old.
+
+Update 14.5
+
+Added Kubrow filters for Mods.
+
+Update 14.2
+
+Added in a Kubrow Category for Kubrow specific mods.
+
+Update 9.5
+
+Transmutation Introduced
+
+Combine 4 mods to produce 1 random mod. Combining mods of similar polarity, rarity, or compatibility will influence the result.
+
+Other Changes
+
+Mods are now the same for entire squad. If you get Fast Hands from a mod drop, so does everyone else.
+
+Update 7
+
+Mods 2.0 Introduced
+
+Mods re-imagined - Please visit our forums to see details on how the new system works! Old Mods can feed the new system with the fusion system!
+Default upgrade initial level is now 0 instead of 1
+
+Last updated: Update 23.10
+
+
+ Mechanics
+
+
+ Currencies
+ Credits • Ducats • Platinum • Standing
+
+
+ General
+ Alignment • Arcanes • Arsenal • Buff & Debuff • Chat • Clan • Codex • Daily Tribute • Foundry • Fusion • Leverian • Market • Mastery Rank • Nightwave • (Riven) Mods • Orbiter • Passives • Polarization • Syndicates • Trading • Transmutation
+
+
+ Gameplay
+ Affinity • Alert (Arbitrations, Tactical) • Archwing •  Death • Inactivity Penalty • K-Drive • Landscape • Maneuvers • Matchmaking • Mission • One-Handed Action • Pickups • Squad • Tile Sets • Void Relic • Waypoint
+
+
+ Enemies
+ Death Mark • Enemy Behavior • Threat Level
+
+
+ Activities
+ Conservation • Fishing • K-Drive Race • Mining
+
+
+ Stealth
+ Hacking • Noise Level • Stealth
+
+
+ Equipment
+ Warframe
+ Attributes (Armor • Energy • Health • Shield • Sprint Speed) • Abilities • Threat Level
+
+
+ Weapons
+ Accuracy • Alternate Fire • Ammo • Attack Speed • Critical Hit • Damage • Damage Falloff • Exalted Weapon • Fire Rate • Melee • Multishot • Projectile Flight Speed  • Punch Through • Recoil • Reload • Signature Weapon • Status • Trigger Type • Zoom
+
+
+ Operator
+ Focus (Madurai • Vazarin • Naramon • Unairu • Zenurik)
+
+
+ Technical
+ Chat • HUD • Inactivity Penalty • Key Bindings • Settings • Stress Test
+
+
+ Mathematical
+ Drop Tables • Enemy Level Scaling • Maximization (Duration • Efficiency • Range • Strength) • User Research
+
+
+
+
+Retrieved from "https://warframe.fandom.com/wiki/Mod?oldid=2000841"
+
+
+
+Categories:
+
+
+Updateme
+
+
+
+
+
+
+Mechanics
+
+
+
+
+
+
+Add category
+ 
+
+
+
+Cancel
+Save
+
+
+
+Languages: 
+
+Deutsch
+
+Español
+
+Français
+
+Italiano
+
+Русский
+
+
+
+
+	Community content is available under CC-BY-SA
+ unless otherwise noted.
+
+
+ 
+
+
+
+
+
+
+
+
+									window.adslots2.push(["top_boxad"]);
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fan Feed		
+
+
+
+
+More WARFRAME Wiki
+
+
+
+
+1
+Gauss
+
+
+
+
+2
+Disruption
+
+
+
+
+3
+Orokin Moon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Explore Wikis
+	
+
+
+
+
+
+Dream Logos Wiki
+
+
+
+
+
+
+
+The Promised Neverland Wiki
+
+
+
+
+
+
+
+Madagascar Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Explore
+
+
+
+Games
+
+
+
+
+Movies
+
+
+
+
+TV
+
+
+
+
+Wikis
+
+
+
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+
+	About
+
+
+
+	Careers
+
+
+
+	Press
+
+
+
+	Contact
+
+
+
+
+
+
+
+	Terms of Use
+
+
+
+	Privacy Policy
+
+
+
+	Global Sitemap
+
+
+
+	Local Sitemap
+
+
+
+
+Community
+
+
+
+	Community Central
+
+
+
+	Support
+
+
+
+	WAM Score
+
+
+
+	Help
+
+
+
+
+Can't find a community you love? Create your own and start something epic.
+
+
+
+	Start a wiki
+
+
+
+
+The FANDOM App
+Take your favorite fandoms with you and never miss a beat
+
+
+
+
+
+
+
+
+
+
+
+
+Advertise
+
+
+
+	Media Kit
+
+
+
+	Contact
+
+
+
+
+
+
+WARFRAME Wiki is a FANDOM Games Community.
+
+
+		View Mobile Site	
+
+
+
+
+
+
+
+
+
+
+
+
+
+UnderMine
+
+
+
+EndgameHonest
+
+
+
+UpsideDown
+
+
+
+
+
+
+
+
+
+
+									window.adslots2.push(["gpt_flush"]);
+							
+
+
+
+
+
+
+
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Mod","wgTitle":"Mod","wgCurRevisionId":2000841,"wgArticleId":1294782,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Updateme","Mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Mod","wgRestrictionEdit":[],"wgRestrictionMove":[],"sassParams":{"background-dynamic":"false","background-image":"https://vignette.wikia.nocookie.net/warframe/images/5/50/Wiki-background/revision/latest?cb=20190402071843","background-image-height":"1213","background-image-width":"1920","color-body":"#ffffff","color-body-middle":"#ffffff","color-buttons":"#424242","color-community-header":"#061212","color-header":"#808080","color-links":"#0148c2","color-page":"#eeeeee","oasisTypography":1,"page-opacity":"88","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgWeppyConfig":{"host":"https://speed.nocookie.net/__rum","sample":0.1,"aggregationInterval":1000},"WikiaEnableNewCreatepage":true,"ContentNamespacesText":["","Conclave"],"wgCatId":"2","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"WARFRAME Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"https://slot1-images.wikia.nocookie.net/__cb1567448848263/common/extensions","wgResourceBasePath":"https://slot1-images.wikia.nocookie.net/__cb1567448848263/common","wgSitename":"WARFRAME Wiki","wgMWrevId":false,"wgRevisionId":2000841,"wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgTrackID":0,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"0":true,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"6":true,"8":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"112":true,"110":true,"111":true,"828":true,"829":true,"1201":true,"1200":true,"2001":true,"500":true,"501":true,"502":true,"503":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/gQT.js","isContributor":false,"isCurrentWikiAdmin":false,"fullVerticalName":"games","dartGnreValues":["3rdpersonshooter","action","free2play","fighting","fps","moba","scifi","shooter"],"wgVisualEditorPreferred":false,"wgEnablePortableInfoboxBuilderInVE":false,"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"],"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Games","wgArticleInterlangList":["es:Plantilla:Infobox","de:Mods","es:Mod","fr:Mods","it:Mod 2.0","ru:Моды"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1567126395","wgScriptsTimestamp":"1566827807","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Mod"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablefeaturedvideo":1,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editor":3,"editsection":1,"editsectiononrightclick":0,"enotifdiscussionsfollows":1,"enotifdiscussionsvotes":1,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"forceeditsummary":0,"hideminor":0,"hidepatrolled":0,"highlightbroken":1,"htmlemails":1,"imagesize":1,"justify":0,"math":6,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,
+"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,"watchlistdays":3,"watchlistdigest":1,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"enotifwallthread":2,"wallshowsource":!1,"walldelete":!1,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"variant":"en","language":"en","searchNs0":!0,"searchNs1":!1,"searchNs2":!1,"searchNs3":!1,"searchNs4":!1,"searchNs5":!1,"searchNs6":!1,"searchNs7":!1,"searchNs8":!1,"searchNs9":!1,"searchNs10":!1,"searchNs11":!1,"searchNs12":!1,"searchNs13":!1,"searchNs14":!1,"searchNs15":!1,"searchNs110":!1,"searchNs111":!1,"searchNs112":!0,"searchNs113":!1,"searchNs500":!0,"searchNs501":!1,"searchNs502":!0,"searchNs503":!1,"searchNs828":!1,"searchNs829":!1,"searchNs1200":!1,"searchNs1201":!1,"searchNs1202":!1,
+"searchNs2000":!1,"searchNs2001":!1,"searchNs2002":!1,"category-page-layout":"category-page3"});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":!1});;},{},{});
+
+/* cache key: warframe:resourceloader:filter:minify-js:7:f2cc9e716d4d6944ef7e5ee29b6b618b */
+}
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","ext.tabber","mediawiki.user","mediawiki.page.ready","ext.wikia.TimeAgoMessaging","ext.designSystem","ext.bannerNotifications","ext.wikia.facebookTags","ext.userLogin"]);
+}
+
+
+
+
+
+
+
+
+
+/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/
+/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/
+
+
+(function(){importWikiaScriptPages(["Calculator.js", "Maximization.js", "Tooltips.js", "external:dev:Tooltips.js", "CustomDiscordWidget.js", "external:dev:Discord.js", "external:dev:BackToTopButton/code.js", "external:dev:Countdown/code.js", "external:dev:EditIntroButton/code.js", "external:dev:ReferencePopups/code.js", "ImageTooltip.js", "LimitedEventCall.js", "external:dev:DupImageList/code.js", "external:dev:SeeMoreActivityButton/code.js", "external:dev:ProfileTags.js", "RelicTable.js", "EnemyInfoboxSlider.js", "CollapseExpandButtons.js", "Countdown.js", "external:dev:WikiManager_Nameplate.js"]);})();var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/DesignSystem\/styles\/design-system.scss","extensions\/wikia\/CommunityHeader\/styles\/index.scss","extensions\/wikia\/PageHeader\/styles\/index.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/EmbeddableDiscussions\/styles\/EmbeddableDiscussions.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/AdEngine3\/dist\/styles.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];
+
+
